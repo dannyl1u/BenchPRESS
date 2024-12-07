@@ -1,0 +1,52 @@
+attributes:
+  color: purple
+  dimensions:
+    height: 25cm
+    length: 95cm
+    width: 93cm
+  material: metal
+  size: 49cm
+  weight: 3.82kg
+created_at: '2024-06-11T15:32:47.125950'
+id: 41
+name: Item_Epsilon_41
+nested_structure:
+  active: true
+  location:
+    city: New York
+    coordinates:
+      latitude: 37.182611
+      longitude: -161.302889
+    zipcode: 22731
+  metadata:
+    comments:
+    - text: Comment Amazing!
+      timestamp: '2024-10-22T15:32:47.126038'
+      user: John
+    - text: Comment Pending!
+      timestamp: '2024-11-02T15:32:47.126048'
+      user: Liam
+    creator:
+      id: 6845
+      name: User_Charlie
+      roles:
+      - editor
+      - contributor
+  status: in_progress
+  sub_id: 4910
+  values:
+  - sub_values:
+    - comment: Average
+      data: 7.085394936490782
+      sub_value_id: 9128
+    - comment: Poor
+      data: 4.7102175808027535
+      sub_value_id: 6242
+    timestamp: '2024-08-08T15:32:47.126057'
+    value: 0
+    value_id: 28233
+tags:
+- test
+- archive
+- vintage
+- example

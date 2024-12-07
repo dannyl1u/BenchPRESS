@@ -1,0 +1,81 @@
+{
+    "id": 0,
+    "name": "Item_Epsilon_0",
+    "attributes": {
+        "color": "red",
+        "size": "35cm",
+        "weight": "14.33kg",
+        "material": "fabric",
+        "dimensions": {
+            "length": "12cm",
+            "width": "36cm",
+            "height": "5cm"
+        }
+    },
+    "created_at": "2024-11-20T14:14:35.747682",
+    "tags": [
+        "unique",
+        "vintage",
+        "debug",
+        "archive"
+    ],
+    "nested_structure": {
+        "sub_id": 4884,
+        "active": true,
+        "status": "archived",
+        "location": {
+            "city": "Seattle",
+            "zipcode": 22907,
+            "coordinates": {
+                "latitude": -9.906063,
+                "longitude": 103.983184
+            }
+        },
+        "metadata": {
+            "creator": {
+                "id": 6309,
+                "name": "User_Charlie",
+                "roles": [
+                    "admin",
+                    "editor"
+                ]
+            },
+            "comments": [
+                {
+                    "user": "John",
+                    "timestamp": "2024-11-06T14:14:35.747718",
+                    "text": "Comment Pending!"
+                },
+                {
+                    "user": "Sarah",
+                    "timestamp": "2024-10-25T14:14:35.747724",
+                    "text": "Comment Amazing!"
+                },
+                {
+                    "user": "Liam",
+                    "timestamp": "2024-10-25T14:14:35.747728",
+                    "text": "Comment Needs improvement!"
+                },
+                {
+                    "user": "Kate",
+                    "timestamp": "2024-10-23T14:14:35.747731",
+                    "text": "Comment Pending!"
+                }
+            ]
+        },
+        "values": [
+            {
+                "value_id": 79502,
+                "value": 43,
+                "timestamp": "2024-08-16T14:14:35.747736",
+                "sub_values": [
+                    {
+                        "sub_value_id": 2476,
+                        "data": 6.4158795482009365,
+                        "comment": "Average"
+                    }
+                ]
+            }
+        ]
+    }
+}

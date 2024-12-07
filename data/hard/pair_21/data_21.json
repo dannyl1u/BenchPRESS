@@ -1,0 +1,66 @@
+{
+    "id": 21,
+    "name": "Item_Beta_21",
+    "attributes": {
+        "color": "blue",
+        "size": "22cm",
+        "weight": "13.45kg",
+        "material": "stone",
+        "dimensions": {
+            "length": "30cm",
+            "width": "92cm",
+            "height": "45cm"
+        }
+    },
+    "created_at": "2024-08-12T16:15:04.766251",
+    "tags": [
+        "archive",
+        "vintage",
+        "example",
+        "test"
+    ],
+    "nested_structure": {
+        "sub_id": 2519,
+        "active": false,
+        "status": "in_progress",
+        "location": {
+            "city": "London",
+            "zipcode": 27562,
+            "coordinates": {
+                "latitude": 48.815805,
+                "longitude": 105.629284
+            }
+        },
+        "metadata": {
+            "creator": {
+                "id": 1943,
+                "name": "User_Alice",
+                "roles": [
+                    "viewer",
+                    "moderator"
+                ]
+            },
+            "comments": [
+                {
+                    "user": "Sarah",
+                    "timestamp": "2024-11-12T16:15:04.766285",
+                    "text": "Comment Completed!"
+                }
+            ]
+        },
+        "values": [
+            {
+                "value_id": 56675,
+                "value": 2,
+                "timestamp": "2024-05-31T16:15:04.766296",
+                "sub_values": [
+                    {
+                        "sub_value_id": 6546,
+                        "data": 1.1877124529869476,
+                        "comment": "Poor"
+                    }
+                ]
+            }
+        ]
+    }
+}

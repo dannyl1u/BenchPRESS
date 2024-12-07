@@ -1,0 +1,52 @@
+attributes:
+  color: yellow
+  dimensions:
+    height: 21cm
+    length: 12cm
+    width: 93cm
+  material: stone
+  size: 72cm
+  weight: 18.94kg
+created_at: '2024-08-27T15:30:04.714686'
+id: 31
+name: Item_Beta_31
+nested_structure:
+  active: true
+  location:
+    city: San Francisco
+    coordinates:
+      latitude: 27.078525
+      longitude: 115.182651
+    zipcode: 82651
+  metadata:
+    comments:
+    - text: Comment Completed!
+      timestamp: '2024-11-12T15:30:04.714813'
+      user: Kate
+    creator:
+      id: 2217
+      name: User_Charlie
+      roles:
+      - admin
+      - contributor
+  status: new
+  sub_id: 4844
+  values:
+  - sub_values:
+    - comment: Poor
+      data: 7.593989688929264
+      sub_value_id: 8205
+    - comment: Poor
+      data: 0.8402532804422411
+      sub_value_id: 5863
+    - comment: Poor
+      data: 7.3072840231197835
+      sub_value_id: 9024
+    timestamp: '2024-11-02T15:30:04.714844'
+    value: 44
+    value_id: 69221
+tags:
+- vintage
+- unique
+- random
+- yaml

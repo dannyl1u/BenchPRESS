@@ -1,0 +1,46 @@
+attributes:
+  color: yellow
+  dimensions:
+    height: 36cm
+    length: 73cm
+    width: 66cm
+  material: stone
+  size: 73cm
+  weight: 8.61kg
+created_at: '2024-09-24T16:12:22.988770'
+id: 11
+name: Item_Beta_11
+nested_structure:
+  active: false
+  location:
+    city: Berlin
+    coordinates:
+      latitude: 88.229907
+      longitude: -38.592657
+    zipcode: 26270
+  metadata:
+    comments:
+    - text: Comment Completed!
+      timestamp: '2024-10-31T16:12:22.988942'
+      user: Max
+    creator:
+      id: 7008
+      name: User_Alice
+      roles:
+      - contributor
+      - editor
+  status: new
+  sub_id: 7770
+  values:
+  - sub_values:
+    - comment: Excellent
+      data: 3.3300009999496245
+      sub_value_id: 4102
+    timestamp: '2024-09-11T16:12:22.988956'
+    value: 55
+    value_id: 52962
+tags:
+- random
+- example
+- json
+- debug

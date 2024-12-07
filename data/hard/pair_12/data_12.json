@@ -1,0 +1,66 @@
+{
+    "id": 12,
+    "name": "Item_Delta_12",
+    "attributes": {
+        "color": "purple",
+        "size": "62cm",
+        "weight": "9.51kg",
+        "material": "plastic",
+        "dimensions": {
+            "length": "11cm",
+            "width": "17cm",
+            "height": "33cm"
+        }
+    },
+    "created_at": "2024-09-17T16:12:38.390519",
+    "tags": [
+        "json",
+        "vintage",
+        "unique",
+        "archive"
+    ],
+    "nested_structure": {
+        "sub_id": 6470,
+        "active": false,
+        "status": "new",
+        "location": {
+            "city": "Tokyo",
+            "zipcode": 45821,
+            "coordinates": {
+                "latitude": 87.943477,
+                "longitude": -114.976906
+            }
+        },
+        "metadata": {
+            "creator": {
+                "id": 6667,
+                "name": "User_Bob",
+                "roles": [
+                    "moderator",
+                    "viewer"
+                ]
+            },
+            "comments": [
+                {
+                    "user": "Liam",
+                    "timestamp": "2024-11-20T16:12:38.390538",
+                    "text": "Comment Amazing!"
+                }
+            ]
+        },
+        "values": [
+            {
+                "value_id": 11451,
+                "value": 86,
+                "timestamp": "2024-10-15T16:12:38.390544",
+                "sub_values": [
+                    {
+                        "sub_value_id": 4371,
+                        "data": 6.292434100920027,
+                        "comment": "Average"
+                    }
+                ]
+            }
+        ]
+    }
+}

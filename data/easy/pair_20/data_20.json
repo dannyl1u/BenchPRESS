@@ -1,0 +1,76 @@
+{
+    "id": 20,
+    "name": "Item_Theta_20",
+    "attributes": {
+        "color": "green",
+        "size": "68cm",
+        "weight": "19.93kg",
+        "material": "wood",
+        "dimensions": {
+            "length": "89cm",
+            "width": "45cm",
+            "height": "10cm"
+        }
+    },
+    "created_at": "2024-11-15T15:27:11.527099",
+    "tags": [
+        "vintage",
+        "test",
+        "debug",
+        "data"
+    ],
+    "nested_structure": {
+        "sub_id": 1197,
+        "active": false,
+        "status": "in_progress",
+        "location": {
+            "city": "New York",
+            "zipcode": 47649,
+            "coordinates": {
+                "latitude": -53.108168,
+                "longitude": -104.869512
+            }
+        },
+        "metadata": {
+            "creator": {
+                "id": 5084,
+                "name": "User_Bob",
+                "roles": [
+                    "moderator",
+                    "editor"
+                ]
+            },
+            "comments": [
+                {
+                    "user": "Sarah",
+                    "timestamp": "2024-11-07T15:27:11.527184",
+                    "text": "Comment Pending!"
+                },
+                {
+                    "user": "Sarah",
+                    "timestamp": "2024-10-28T15:27:11.527197",
+                    "text": "Comment Needs improvement!"
+                },
+                {
+                    "user": "Liam",
+                    "timestamp": "2024-11-28T15:27:11.527201",
+                    "text": "Comment Amazing!"
+                }
+            ]
+        },
+        "values": [
+            {
+                "value_id": 39461,
+                "value": 38,
+                "timestamp": "2024-10-31T15:27:11.527211",
+                "sub_values": [
+                    {
+                        "sub_value_id": 8287,
+                        "data": 1.0313507874440297,
+                        "comment": "Poor"
+                    }
+                ]
+            }
+        ]
+    }
+}

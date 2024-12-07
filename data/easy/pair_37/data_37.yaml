@@ -1,0 +1,52 @@
+attributes:
+  color: black
+  dimensions:
+    height: 50cm
+    length: 51cm
+    width: 76cm
+  material: stone
+  size: 65cm
+  weight: 7.86kg
+created_at: '2024-11-25T15:31:36.258056'
+id: 37
+name: Item_Delta_37
+nested_structure:
+  active: false
+  location:
+    city: San Francisco
+    coordinates:
+      latitude: -34.549332
+      longitude: -133.637519
+    zipcode: 55595
+  metadata:
+    comments:
+    - text: Comment Interesting!
+      timestamp: '2024-11-08T15:31:36.258318'
+      user: Liam
+    - text: Comment Amazing!
+      timestamp: '2024-11-23T15:31:36.258342'
+      user: Liam
+    creator:
+      id: 2254
+      name: User_Bob
+      roles:
+      - contributor
+      - viewer
+  status: new
+  sub_id: 2221
+  values:
+  - sub_values:
+    - comment: Good
+      data: 7.050161525401616
+      sub_value_id: 8810
+    - comment: Average
+      data: 2.9118805287560536
+      sub_value_id: 1500
+    timestamp: '2024-06-28T15:31:36.258361'
+    value: 93
+    value_id: 90038
+tags:
+- example
+- test
+- yaml
+- json

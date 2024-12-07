@@ -1,0 +1,49 @@
+attributes:
+  color: purple
+  dimensions:
+    height: 44cm
+    length: 78cm
+    width: 99cm
+  material: glass
+  size: 7cm
+  weight: 11.56kg
+created_at: '2024-11-15T15:30:20.885433'
+id: 32
+name: Item_Alpha_32
+nested_structure:
+  active: false
+  location:
+    city: San Francisco
+    coordinates:
+      latitude: -29.226608
+      longitude: -169.536821
+    zipcode: 22696
+  metadata:
+    comments:
+    - text: Comment Interesting!
+      timestamp: '2024-11-22T15:30:20.885641'
+      user: John
+    creator:
+      id: 4710
+      name: User_Charlie
+      roles:
+      - admin
+      - viewer
+  status: completed
+  sub_id: 8039
+  values:
+  - sub_values:
+    - comment: Poor
+      data: 2.5879886588464176
+      sub_value_id: 1598
+    - comment: Excellent
+      data: 9.109598773666177
+      sub_value_id: 7499
+    timestamp: '2024-11-13T15:30:20.885679'
+    value: 9
+    value_id: 48359
+tags:
+- debug
+- unique
+- archive
+- example

@@ -1,0 +1,52 @@
+attributes:
+  color: orange
+  dimensions:
+    height: 10cm
+    length: 89cm
+    width: 28cm
+  material: stone
+  size: 37cm
+  weight: 18.77kg
+created_at: '2024-09-21T15:35:07.727675'
+id: 50
+name: Item_Theta_50
+nested_structure:
+  active: true
+  location:
+    city: Seattle
+    coordinates:
+      latitude: -83.440911
+      longitude: 29.302935
+    zipcode: 45494
+  metadata:
+    comments:
+    - text: Comment Pending!
+      timestamp: '2024-11-26T15:35:07.727807'
+      user: Max
+    - text: Comment Needs improvement!
+      timestamp: '2024-10-21T15:35:07.727839'
+      user: Kate
+    - text: Comment Pending!
+      timestamp: '2024-10-28T15:35:07.727845'
+      user: Sarah
+    creator:
+      id: 1137
+      name: User_Eve
+      roles:
+      - contributor
+      - editor
+  status: completed
+  sub_id: 3039
+  values:
+  - sub_values:
+    - comment: Excellent
+      data: 2.476922054334203
+      sub_value_id: 3214
+    timestamp: '2024-11-23T15:35:07.727860'
+    value: 12
+    value_id: 50473
+tags:
+- json
+- vintage
+- data
+- debug

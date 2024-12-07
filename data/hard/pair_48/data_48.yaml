@@ -1,0 +1,46 @@
+attributes:
+  color: white
+  dimensions:
+    height: 39cm
+    length: 71cm
+    width: 49cm
+  material: stone
+  size: 56cm
+  weight: 18.39kg
+created_at: '2024-09-19T16:22:30.653815'
+id: 48
+name: Item_Epsilon_48
+nested_structure:
+  active: false
+  location:
+    city: New York
+    coordinates:
+      latitude: 29.139974
+      longitude: -138.377035
+    zipcode: 75967
+  metadata:
+    comments:
+    - text: Comment Needs improvement!
+      timestamp: '2024-11-02T16:22:30.653895'
+      user: John
+    creator:
+      id: 8163
+      name: User_Charlie
+      roles:
+      - admin
+      - editor
+  status: archived
+  sub_id: 8314
+  values:
+  - sub_values:
+    - comment: Average
+      data: 3.319625800508259
+      sub_value_id: 9564
+    timestamp: '2024-09-04T16:22:30.653911'
+    value: 40
+    value_id: 87777
+tags:
+- random
+- yaml
+- example
+- test

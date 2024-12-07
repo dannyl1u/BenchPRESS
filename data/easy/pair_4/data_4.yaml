@@ -1,0 +1,49 @@
+attributes:
+  color: orange
+  dimensions:
+    height: 39cm
+    length: 72cm
+    width: 90cm
+  material: plastic
+  size: 57cm
+  weight: 13.03kg
+created_at: '2024-09-23T15:23:29.933719'
+id: 4
+name: Item_Gamma_4
+nested_structure:
+  active: false
+  location:
+    city: London
+    coordinates:
+      latitude: 80.534397
+      longitude: -46.015819
+    zipcode: 66076
+  metadata:
+    comments:
+    - text: Comment Amazing!
+      timestamp: '2024-10-26T15:23:29.933757'
+      user: Max
+    creator:
+      id: 9729
+      name: User_Charlie
+      roles:
+      - contributor
+      - viewer
+  status: archived
+  sub_id: 3225
+  values:
+  - sub_values:
+    - comment: Average
+      data: 4.1901097572677495
+      sub_value_id: 6598
+    - comment: Good
+      data: 9.735615600375587
+      sub_value_id: 4949
+    timestamp: '2024-10-16T15:23:29.933764'
+    value: 26
+    value_id: 99623
+tags:
+- data
+- example
+- vintage
+- json

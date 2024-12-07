@@ -1,0 +1,46 @@
+attributes:
+  color: blue
+  dimensions:
+    height: 48cm
+    length: 95cm
+    width: 36cm
+  material: fabric
+  size: 7cm
+  weight: 1.62kg
+created_at: '2024-05-30T16:11:04.835421'
+id: 6
+name: Item_Gamma_6
+nested_structure:
+  active: false
+  location:
+    city: New York
+    coordinates:
+      latitude: -30.605807
+      longitude: 86.450045
+    zipcode: 55006
+  metadata:
+    comments:
+    - text: Comment Amazing!
+      timestamp: '2024-11-29T16:11:04.835477'
+      user: Sarah
+    creator:
+      id: 9729
+      name: User_Alice
+      roles:
+      - moderator
+      - admin
+  status: in_progress
+  sub_id: 5006
+  values:
+  - sub_values:
+    - comment: Poor
+      data: 6.201538416384725
+      sub_value_id: 6202
+    timestamp: '2024-10-29T16:11:04.835484'
+    value: 80
+    value_id: 85812
+tags:
+- unique
+- example
+- archive
+- random

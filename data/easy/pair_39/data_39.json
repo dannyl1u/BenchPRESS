@@ -1,0 +1,71 @@
+{
+    "id": 39,
+    "name": "Item_Beta_39",
+    "attributes": {
+        "color": "orange",
+        "size": "29cm",
+        "weight": "6.29kg",
+        "material": "fabric",
+        "dimensions": {
+            "length": "38cm",
+            "width": "79cm",
+            "height": "16cm"
+        }
+    },
+    "created_at": "2024-07-01T15:32:08.682804",
+    "tags": [
+        "vintage",
+        "debug",
+        "yaml",
+        "test"
+    ],
+    "nested_structure": {
+        "sub_id": 6897,
+        "active": true,
+        "status": "completed",
+        "location": {
+            "city": "Vancouver",
+            "zipcode": 97140,
+            "coordinates": {
+                "latitude": 70.378317,
+                "longitude": -110.397978
+            }
+        },
+        "metadata": {
+            "creator": {
+                "id": 9240,
+                "name": "User_Alice",
+                "roles": [
+                    "moderator",
+                    "editor"
+                ]
+            },
+            "comments": [
+                {
+                    "user": "Max",
+                    "timestamp": "2024-11-28T15:32:08.682886",
+                    "text": "Comment Pending!"
+                },
+                {
+                    "user": "John",
+                    "timestamp": "2024-11-25T15:32:08.682898",
+                    "text": "Comment Amazing!"
+                }
+            ]
+        },
+        "values": [
+            {
+                "value_id": 48315,
+                "value": 44,
+                "timestamp": "2024-11-22T15:32:08.682905",
+                "sub_values": [
+                    {
+                        "sub_value_id": 7238,
+                        "data": 6.106266458256768,
+                        "comment": "Excellent"
+                    }
+                ]
+            }
+        ]
+    }
+}

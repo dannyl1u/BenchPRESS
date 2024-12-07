@@ -1,0 +1,71 @@
+{
+    "id": 32,
+    "name": "Item_Alpha_32",
+    "attributes": {
+        "color": "purple",
+        "size": "7cm",
+        "weight": "11.56kg",
+        "material": "glass",
+        "dimensions": {
+            "length": "78cm",
+            "width": "99cm",
+            "height": "44cm"
+        }
+    },
+    "created_at": "2024-11-15T15:30:20.885433",
+    "tags": [
+        "debug",
+        "unique",
+        "archive",
+        "example"
+    ],
+    "nested_structure": {
+        "sub_id": 8039,
+        "active": false,
+        "status": "completed",
+        "location": {
+            "city": "San Francisco",
+            "zipcode": 22696,
+            "coordinates": {
+                "latitude": -29.226608,
+                "longitude": -169.536821
+            }
+        },
+        "metadata": {
+            "creator": {
+                "id": 4710,
+                "name": "User_Charlie",
+                "roles": [
+                    "admin",
+                    "viewer"
+                ]
+            },
+            "comments": [
+                {
+                    "user": "John",
+                    "timestamp": "2024-11-22T15:30:20.885641",
+                    "text": "Comment Interesting!"
+                }
+            ]
+        },
+        "values": [
+            {
+                "value_id": 48359,
+                "value": 9,
+                "timestamp": "2024-11-13T15:30:20.885679",
+                "sub_values": [
+                    {
+                        "sub_value_id": 1598,
+                        "data": 2.5879886588464176,
+                        "comment": "Poor"
+                    },
+                    {
+                        "sub_value_id": 7499,
+                        "data": 9.109598773666177,
+                        "comment": "Excellent"
+                    }
+                ]
+            }
+        ]
+    }
+}

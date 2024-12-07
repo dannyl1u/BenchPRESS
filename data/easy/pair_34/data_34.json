@@ -1,0 +1,76 @@
+{
+    "id": 34,
+    "name": "Item_Gamma_34",
+    "attributes": {
+        "color": "white",
+        "size": "39cm",
+        "weight": "19.38kg",
+        "material": "plastic",
+        "dimensions": {
+            "length": "45cm",
+            "width": "85cm",
+            "height": "38cm"
+        }
+    },
+    "created_at": "2024-05-23T15:30:52.961150",
+    "tags": [
+        "json",
+        "data",
+        "debug",
+        "random"
+    ],
+    "nested_structure": {
+        "sub_id": 4527,
+        "active": true,
+        "status": "new",
+        "location": {
+            "city": "Tokyo",
+            "zipcode": 46099,
+            "coordinates": {
+                "latitude": -17.37902,
+                "longitude": 75.619354
+            }
+        },
+        "metadata": {
+            "creator": {
+                "id": 5101,
+                "name": "User_Alice",
+                "roles": [
+                    "admin",
+                    "moderator"
+                ]
+            },
+            "comments": [
+                {
+                    "user": "Kate",
+                    "timestamp": "2024-10-24T15:30:52.961260",
+                    "text": "Comment Amazing!"
+                },
+                {
+                    "user": "Kate",
+                    "timestamp": "2024-10-24T15:30:52.961275",
+                    "text": "Comment Needs improvement!"
+                },
+                {
+                    "user": "Sarah",
+                    "timestamp": "2024-10-24T15:30:52.961282",
+                    "text": "Comment Needs improvement!"
+                }
+            ]
+        },
+        "values": [
+            {
+                "value_id": 53399,
+                "value": 5,
+                "timestamp": "2024-11-25T15:30:52.961292",
+                "sub_values": [
+                    {
+                        "sub_value_id": 7408,
+                        "data": 6.285006729451181,
+                        "comment": "Excellent"
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,52 @@
+attributes:
+  color: black
+  dimensions:
+    height: 30cm
+    length: 57cm
+    width: 58cm
+  material: plastic
+  size: 76cm
+  weight: 16.33kg
+created_at: '2024-08-23T15:29:35.077636'
+id: 29
+name: Item_Delta_29
+nested_structure:
+  active: true
+  location:
+    city: Vancouver
+    coordinates:
+      latitude: -73.015912
+      longitude: 83.370588
+    zipcode: 38908
+  metadata:
+    comments:
+    - text: Comment Needs improvement!
+      timestamp: '2024-11-14T15:29:35.077723'
+      user: Liam
+    creator:
+      id: 6801
+      name: User_Frank
+      roles:
+      - viewer
+      - moderator
+  status: archived
+  sub_id: 2833
+  values:
+  - sub_values:
+    - comment: Good
+      data: 2.5651085871666677
+      sub_value_id: 6675
+    - comment: Good
+      data: 7.430431828043639
+      sub_value_id: 3344
+    - comment: Poor
+      data: 8.929282695536953
+      sub_value_id: 6017
+    timestamp: '2024-09-16T15:29:35.077742'
+    value: 58
+    value_id: 44012
+tags:
+- data
+- debug
+- unique
+- json

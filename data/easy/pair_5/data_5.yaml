@@ -1,0 +1,49 @@
+attributes:
+  color: green
+  dimensions:
+    height: 32cm
+    length: 31cm
+    width: 28cm
+  material: wood
+  size: 31cm
+  weight: 19.86kg
+created_at: '2024-10-28T15:23:34.522725'
+id: 5
+name: Item_Delta_5
+nested_structure:
+  active: false
+  location:
+    city: Paris
+    coordinates:
+      latitude: 29.192746
+      longitude: -61.059362
+    zipcode: 18792
+  metadata:
+    comments:
+    - text: Comment Needs improvement!
+      timestamp: '2024-10-20T15:23:34.522808'
+      user: Sarah
+    creator:
+      id: 5402
+      name: User_Charlie
+      roles:
+      - editor
+      - contributor
+  status: new
+  sub_id: 7048
+  values:
+  - sub_values:
+    - comment: Excellent
+      data: 8.445711021492489
+      sub_value_id: 3593
+    - comment: Excellent
+      data: 2.9481995012481
+      sub_value_id: 4938
+    timestamp: '2024-07-15T15:23:34.522824'
+    value: 68
+    value_id: 73843
+tags:
+- vintage
+- test
+- debug
+- yaml

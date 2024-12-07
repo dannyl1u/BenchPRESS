@@ -1,0 +1,76 @@
+{
+    "id": 13,
+    "name": "Item_Zeta_13",
+    "attributes": {
+        "color": "orange",
+        "size": "28cm",
+        "weight": "19.00kg",
+        "material": "glass",
+        "dimensions": {
+            "length": "98cm",
+            "width": "35cm",
+            "height": "19cm"
+        }
+    },
+    "created_at": "2024-09-14T15:25:24.144558",
+    "tags": [
+        "debug",
+        "data",
+        "example",
+        "archive"
+    ],
+    "nested_structure": {
+        "sub_id": 2592,
+        "active": true,
+        "status": "in_progress",
+        "location": {
+            "city": "Berlin",
+            "zipcode": 52950,
+            "coordinates": {
+                "latitude": -88.177033,
+                "longitude": -141.076132
+            }
+        },
+        "metadata": {
+            "creator": {
+                "id": 1809,
+                "name": "User_Diana",
+                "roles": [
+                    "moderator",
+                    "viewer"
+                ]
+            },
+            "comments": [
+                {
+                    "user": "Max",
+                    "timestamp": "2024-11-30T15:25:24.144633",
+                    "text": "Comment Needs improvement!"
+                },
+                {
+                    "user": "Liam",
+                    "timestamp": "2024-11-26T15:25:24.144640",
+                    "text": "Comment Amazing!"
+                }
+            ]
+        },
+        "values": [
+            {
+                "value_id": 88453,
+                "value": 13,
+                "timestamp": "2024-07-18T15:25:24.144646",
+                "sub_values": [
+                    {
+                        "sub_value_id": 7411,
+                        "data": 3.0757717059666216,
+                        "comment": "Poor"
+                    },
+                    {
+                        "sub_value_id": 9815,
+                        "data": 3.531939199980819,
+                        "comment": "Good"
+                    }
+                ]
+            }
+        ]
+    }
+}

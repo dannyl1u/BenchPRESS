@@ -1,0 +1,46 @@
+attributes:
+  color: white
+  dimensions:
+    height: 47cm
+    length: 26cm
+    width: 73cm
+  material: fabric
+  size: 77cm
+  weight: 9.95kg
+created_at: '2024-09-15T16:20:03.523719'
+id: 39
+name: Item_Theta_39
+nested_structure:
+  active: false
+  location:
+    city: Paris
+    coordinates:
+      latitude: 58.750198
+      longitude: -82.694195
+    zipcode: 25509
+  metadata:
+    comments:
+    - text: Comment Completed!
+      timestamp: '2024-11-29T16:20:03.523787'
+      user: John
+    creator:
+      id: 8011
+      name: User_Bob
+      roles:
+      - contributor
+      - editor
+  status: completed
+  sub_id: 9525
+  values:
+  - sub_values:
+    - comment: Average
+      data: 1.1378937398724591
+      sub_value_id: 8084
+    timestamp: '2024-06-03T16:20:03.523801'
+    value: 48
+    value_id: 16394
+tags:
+- unique
+- random
+- yaml
+- archive

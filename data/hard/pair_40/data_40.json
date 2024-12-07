@@ -1,0 +1,66 @@
+{
+    "id": 40,
+    "name": "Item_Zeta_40",
+    "attributes": {
+        "color": "yellow",
+        "size": "85cm",
+        "weight": "19.04kg",
+        "material": "glass",
+        "dimensions": {
+            "length": "13cm",
+            "width": "17cm",
+            "height": "11cm"
+        }
+    },
+    "created_at": "2024-11-19T16:20:20.540741",
+    "tags": [
+        "unique",
+        "yaml",
+        "debug",
+        "test"
+    ],
+    "nested_structure": {
+        "sub_id": 4788,
+        "active": true,
+        "status": "in_progress",
+        "location": {
+            "city": "Berlin",
+            "zipcode": 60116,
+            "coordinates": {
+                "latitude": -12.07705,
+                "longitude": 38.087608
+            }
+        },
+        "metadata": {
+            "creator": {
+                "id": 8442,
+                "name": "User_Charlie",
+                "roles": [
+                    "admin",
+                    "editor"
+                ]
+            },
+            "comments": [
+                {
+                    "user": "Max",
+                    "timestamp": "2024-10-28T16:20:20.540774",
+                    "text": "Comment Amazing!"
+                }
+            ]
+        },
+        "values": [
+            {
+                "value_id": 69440,
+                "value": 88,
+                "timestamp": "2024-07-03T16:20:20.540785",
+                "sub_values": [
+                    {
+                        "sub_value_id": 6082,
+                        "data": 4.3900089855869195,
+                        "comment": "Excellent"
+                    }
+                ]
+            }
+        ]
+    }
+}

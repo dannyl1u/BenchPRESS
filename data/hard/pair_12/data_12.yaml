@@ -1,0 +1,46 @@
+attributes:
+  color: orange
+  dimensions:
+    height: 7cm
+    length: 37cm
+    width: 84cm
+  material: plastic
+  size: 26cm
+  weight: 2.42kg
+created_at: '2024-06-05T16:12:38.390299'
+id: 12
+name: Item_Theta_12
+nested_structure:
+  active: true
+  location:
+    city: Paris
+    coordinates:
+      latitude: 11.702474
+      longitude: 98.614747
+    zipcode: 36043
+  metadata:
+    comments:
+    - text: Comment Interesting!
+      timestamp: '2024-11-03T16:12:38.390407'
+      user: Sarah
+    creator:
+      id: 9569
+      name: User_Alice
+      roles:
+      - moderator
+      - editor
+  status: completed
+  sub_id: 7175
+  values:
+  - sub_values:
+    - comment: Good
+      data: 5.209827584726732
+      sub_value_id: 3036
+    timestamp: '2024-11-02T16:12:38.390441'
+    value: 40
+    value_id: 40296
+tags:
+- unique
+- test
+- yaml
+- debug

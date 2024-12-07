@@ -1,0 +1,76 @@
+{
+    "id": 23,
+    "name": "Item_Gamma_23",
+    "attributes": {
+        "color": "white",
+        "size": "39cm",
+        "weight": "0.79kg",
+        "material": "metal",
+        "dimensions": {
+            "length": "62cm",
+            "width": "89cm",
+            "height": "17cm"
+        }
+    },
+    "created_at": "2024-07-10T15:27:59.891594",
+    "tags": [
+        "yaml",
+        "json",
+        "debug",
+        "unique"
+    ],
+    "nested_structure": {
+        "sub_id": 3395,
+        "active": false,
+        "status": "completed",
+        "location": {
+            "city": "San Francisco",
+            "zipcode": 86867,
+            "coordinates": {
+                "latitude": 76.140485,
+                "longitude": 127.07042
+            }
+        },
+        "metadata": {
+            "creator": {
+                "id": 2160,
+                "name": "User_Alice",
+                "roles": [
+                    "moderator",
+                    "admin"
+                ]
+            },
+            "comments": [
+                {
+                    "user": "Liam",
+                    "timestamp": "2024-10-29T15:27:59.891639",
+                    "text": "Comment Interesting!"
+                },
+                {
+                    "user": "John",
+                    "timestamp": "2024-12-02T15:27:59.891647",
+                    "text": "Comment Amazing!"
+                },
+                {
+                    "user": "Max",
+                    "timestamp": "2024-11-14T15:27:59.891651",
+                    "text": "Comment Pending!"
+                }
+            ]
+        },
+        "values": [
+            {
+                "value_id": 21933,
+                "value": 15,
+                "timestamp": "2024-10-18T15:27:59.891656",
+                "sub_values": [
+                    {
+                        "sub_value_id": 2901,
+                        "data": 6.500514908520117,
+                        "comment": "Poor"
+                    }
+                ]
+            }
+        ]
+    }
+}

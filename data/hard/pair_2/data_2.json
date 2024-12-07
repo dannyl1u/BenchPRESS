@@ -1,0 +1,66 @@
+{
+    "id": 2,
+    "name": "Item_Gamma_2",
+    "attributes": {
+        "color": "green",
+        "size": "57cm",
+        "weight": "18.28kg",
+        "material": "stone",
+        "dimensions": {
+            "length": "88cm",
+            "width": "94cm",
+            "height": "10cm"
+        }
+    },
+    "created_at": "2024-11-03T16:10:41.206904",
+    "tags": [
+        "example",
+        "vintage",
+        "test",
+        "random"
+    ],
+    "nested_structure": {
+        "sub_id": 8336,
+        "active": true,
+        "status": "new",
+        "location": {
+            "city": "San Francisco",
+            "zipcode": 24308,
+            "coordinates": {
+                "latitude": 82.378064,
+                "longitude": 136.533641
+            }
+        },
+        "metadata": {
+            "creator": {
+                "id": 6828,
+                "name": "User_Charlie",
+                "roles": [
+                    "editor",
+                    "viewer"
+                ]
+            },
+            "comments": [
+                {
+                    "user": "John",
+                    "timestamp": "2024-11-06T16:10:41.206915",
+                    "text": "Comment Pending!"
+                }
+            ]
+        },
+        "values": [
+            {
+                "value_id": 43248,
+                "value": 53,
+                "timestamp": "2024-08-15T16:10:41.206918",
+                "sub_values": [
+                    {
+                        "sub_value_id": 4022,
+                        "data": 3.272032517581389,
+                        "comment": "Excellent"
+                    }
+                ]
+            }
+        ]
+    }
+}

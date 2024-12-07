@@ -1,0 +1,46 @@
+attributes:
+  color: green
+  dimensions:
+    height: 37cm
+    length: 77cm
+    width: 48cm
+  material: stone
+  size: 6cm
+  weight: 16.27kg
+created_at: '2024-09-17T16:17:19.691440'
+id: 29
+name: Item_Theta_29
+nested_structure:
+  active: true
+  location:
+    city: Tokyo
+    coordinates:
+      latitude: -57.50943
+      longitude: 63.835881
+    zipcode: 23805
+  metadata:
+    comments:
+    - text: Comment Completed!
+      timestamp: '2024-10-24T16:17:19.691509'
+      user: Liam
+    creator:
+      id: 5556
+      name: User_Eve
+      roles:
+      - admin
+      - contributor
+  status: new
+  sub_id: 5067
+  values:
+  - sub_values:
+    - comment: Average
+      data: 8.58403992453587
+      sub_value_id: 8486
+    timestamp: '2024-10-01T16:17:19.691526'
+    value: 47
+    value_id: 64270
+tags:
+- archive
+- vintage
+- unique
+- json

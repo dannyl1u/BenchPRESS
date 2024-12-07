@@ -1,0 +1,52 @@
+attributes:
+  color: white
+  dimensions:
+    height: 38cm
+    length: 45cm
+    width: 85cm
+  material: plastic
+  size: 39cm
+  weight: 19.38kg
+created_at: '2024-05-23T15:30:52.961150'
+id: 34
+name: Item_Gamma_34
+nested_structure:
+  active: true
+  location:
+    city: Tokyo
+    coordinates:
+      latitude: -17.37902
+      longitude: 75.619354
+    zipcode: 46099
+  metadata:
+    comments:
+    - text: Comment Amazing!
+      timestamp: '2024-10-24T15:30:52.961260'
+      user: Kate
+    - text: Comment Needs improvement!
+      timestamp: '2024-10-24T15:30:52.961275'
+      user: Kate
+    - text: Comment Needs improvement!
+      timestamp: '2024-10-24T15:30:52.961282'
+      user: Sarah
+    creator:
+      id: 5101
+      name: User_Alice
+      roles:
+      - admin
+      - moderator
+  status: new
+  sub_id: 4527
+  values:
+  - sub_values:
+    - comment: Excellent
+      data: 6.285006729451181
+      sub_value_id: 7408
+    timestamp: '2024-11-25T15:30:52.961292'
+    value: 5
+    value_id: 53399
+tags:
+- json
+- data
+- debug
+- random

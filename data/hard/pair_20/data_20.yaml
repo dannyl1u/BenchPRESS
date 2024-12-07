@@ -1,0 +1,46 @@
+attributes:
+  color: green
+  dimensions:
+    height: 48cm
+    length: 48cm
+    width: 85cm
+  material: wood
+  size: 9cm
+  weight: 8.22kg
+created_at: '2024-08-23T16:14:49.641610'
+id: 20
+name: Item_Gamma_20
+nested_structure:
+  active: false
+  location:
+    city: Paris
+    coordinates:
+      latitude: 40.978228
+      longitude: -155.372811
+    zipcode: 82569
+  metadata:
+    comments:
+    - text: Comment Amazing!
+      timestamp: '2024-11-08T16:14:49.641722'
+      user: Liam
+    creator:
+      id: 6301
+      name: User_Frank
+      roles:
+      - moderator
+      - editor
+  status: in_progress
+  sub_id: 2064
+  values:
+  - sub_values:
+    - comment: Average
+      data: 3.223462541540563
+      sub_value_id: 6803
+    timestamp: '2024-11-19T16:14:49.641737'
+    value: 73
+    value_id: 75644
+tags:
+- json
+- yaml
+- random
+- archive

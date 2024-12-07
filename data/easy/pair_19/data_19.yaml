@@ -1,0 +1,55 @@
+attributes:
+  color: black
+  dimensions:
+    height: 32cm
+    length: 87cm
+    width: 48cm
+  material: plastic
+  size: 41cm
+  weight: 9.39kg
+created_at: '2024-05-23T15:26:55.263552'
+id: 19
+name: Item_Zeta_19
+nested_structure:
+  active: true
+  location:
+    city: New York
+    coordinates:
+      latitude: 56.377804
+      longitude: 143.476769
+    zipcode: 82243
+  metadata:
+    comments:
+    - text: Comment Interesting!
+      timestamp: '2024-11-18T15:26:55.263634'
+      user: Kate
+    - text: Comment Completed!
+      timestamp: '2024-11-01T15:26:55.263640'
+      user: Max
+    creator:
+      id: 5700
+      name: User_Eve
+      roles:
+      - editor
+      - admin
+  status: in_progress
+  sub_id: 1824
+  values:
+  - sub_values:
+    - comment: Poor
+      data: 5.691557043902898
+      sub_value_id: 8953
+    - comment: Average
+      data: 7.409107017846413
+      sub_value_id: 1691
+    - comment: Poor
+      data: 5.616879424509059
+      sub_value_id: 7063
+    timestamp: '2024-07-27T15:26:55.263646'
+    value: 36
+    value_id: 99876
+tags:
+- random
+- json
+- archive
+- yaml

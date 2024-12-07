@@ -1,0 +1,46 @@
+attributes:
+  color: blue
+  dimensions:
+    height: 46cm
+    length: 64cm
+    width: 91cm
+  material: fabric
+  size: 47cm
+  weight: 8.45kg
+created_at: '2024-11-29T16:11:19.187452'
+id: 7
+name: Item_Delta_7
+nested_structure:
+  active: false
+  location:
+    city: Paris
+    coordinates:
+      latitude: -76.290024
+      longitude: 55.416971
+    zipcode: 61024
+  metadata:
+    comments:
+    - text: Comment Interesting!
+      timestamp: '2024-11-16T16:11:19.187532'
+      user: Kate
+    creator:
+      id: 6690
+      name: User_Diana
+      roles:
+      - editor
+      - admin
+  status: completed
+  sub_id: 5883
+  values:
+  - sub_values:
+    - comment: Average
+      data: 3.4089144204771094
+      sub_value_id: 5662
+    timestamp: '2024-08-02T16:11:19.187554'
+    value: 20
+    value_id: 96010
+tags:
+- yaml
+- unique
+- json
+- example

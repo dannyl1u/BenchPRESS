@@ -1,0 +1,46 @@
+attributes:
+  color: orange
+  dimensions:
+    height: 41cm
+    length: 97cm
+    width: 15cm
+  material: wood
+  size: 11cm
+  weight: 5.62kg
+created_at: '2024-05-25T16:13:27.650280'
+id: 15
+name: Item_Gamma_15
+nested_structure:
+  active: true
+  location:
+    city: Berlin
+    coordinates:
+      latitude: 34.390962
+      longitude: -84.550948
+    zipcode: 44865
+  metadata:
+    comments:
+    - text: Comment Pending!
+      timestamp: '2024-11-03T16:13:27.650387'
+      user: Sarah
+    creator:
+      id: 7981
+      name: User_Charlie
+      roles:
+      - viewer
+      - contributor
+  status: new
+  sub_id: 7278
+  values:
+  - sub_values:
+    - comment: Good
+      data: 6.509786802981975
+      sub_value_id: 1473
+    timestamp: '2024-11-10T16:13:27.650400'
+    value: 21
+    value_id: 13133
+tags:
+- test
+- yaml
+- example
+- data

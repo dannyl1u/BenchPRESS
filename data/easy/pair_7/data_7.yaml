@@ -1,0 +1,49 @@
+attributes:
+  color: green
+  dimensions:
+    height: 18cm
+    length: 36cm
+    width: 57cm
+  material: stone
+  size: 73cm
+  weight: 11.38kg
+created_at: '2024-10-10T15:23:49.172256'
+id: 7
+name: Item_Alpha_7
+nested_structure:
+  active: true
+  location:
+    city: New York
+    coordinates:
+      latitude: -78.665712
+      longitude: 19.987998
+    zipcode: 64198
+  metadata:
+    comments:
+    - text: Comment Interesting!
+      timestamp: '2024-11-29T15:23:49.172288'
+      user: Max
+    - text: Comment Pending!
+      timestamp: '2024-12-02T15:23:49.172292'
+      user: Liam
+    creator:
+      id: 7397
+      name: User_Frank
+      roles:
+      - editor
+      - admin
+  status: in_progress
+  sub_id: 1633
+  values:
+  - sub_values:
+    - comment: Good
+      data: 8.09907411784765
+      sub_value_id: 4583
+    timestamp: '2024-09-13T15:23:49.172296'
+    value: 52
+    value_id: 49973
+tags:
+- json
+- data
+- archive
+- vintage

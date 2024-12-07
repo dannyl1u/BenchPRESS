@@ -1,0 +1,46 @@
+attributes:
+  color: red
+  dimensions:
+    height: 49cm
+    length: 39cm
+    width: 14cm
+  material: plastic
+  size: 17cm
+  weight: 16.22kg
+created_at: '2024-11-20T16:11:35.961980'
+id: 8
+name: Item_Alpha_8
+nested_structure:
+  active: false
+  location:
+    city: Berlin
+    coordinates:
+      latitude: -64.332361
+      longitude: -166.796392
+    zipcode: 46978
+  metadata:
+    comments:
+    - text: Comment Amazing!
+      timestamp: '2024-10-31T16:11:35.962055'
+      user: Liam
+    creator:
+      id: 9442
+      name: User_Eve
+      roles:
+      - admin
+      - viewer
+  status: in_progress
+  sub_id: 8967
+  values:
+  - sub_values:
+    - comment: Average
+      data: 6.548539959726305
+      sub_value_id: 4689
+    timestamp: '2024-09-01T16:11:35.962065'
+    value: 74
+    value_id: 21156
+tags:
+- yaml
+- example
+- vintage
+- json

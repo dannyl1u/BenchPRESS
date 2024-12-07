@@ -1,0 +1,81 @@
+{
+    "id": 8,
+    "name": "Item_Epsilon_8",
+    "attributes": {
+        "color": "blue",
+        "size": "53cm",
+        "weight": "2.89kg",
+        "material": "fabric",
+        "dimensions": {
+            "length": "18cm",
+            "width": "88cm",
+            "height": "37cm"
+        }
+    },
+    "created_at": "2024-08-26T15:24:03.243043",
+    "tags": [
+        "example",
+        "vintage",
+        "debug",
+        "yaml"
+    ],
+    "nested_structure": {
+        "sub_id": 5972,
+        "active": true,
+        "status": "completed",
+        "location": {
+            "city": "Paris",
+            "zipcode": 49541,
+            "coordinates": {
+                "latitude": -57.891613,
+                "longitude": 121.126532
+            }
+        },
+        "metadata": {
+            "creator": {
+                "id": 9117,
+                "name": "User_Frank",
+                "roles": [
+                    "contributor",
+                    "moderator"
+                ]
+            },
+            "comments": [
+                {
+                    "user": "Sarah",
+                    "timestamp": "2024-11-06T15:24:03.243254",
+                    "text": "Comment Amazing!"
+                },
+                {
+                    "user": "Liam",
+                    "timestamp": "2024-12-01T15:24:03.243271",
+                    "text": "Comment Completed!"
+                },
+                {
+                    "user": "John",
+                    "timestamp": "2024-11-10T15:24:03.243275",
+                    "text": "Comment Needs improvement!"
+                }
+            ]
+        },
+        "values": [
+            {
+                "value_id": 10210,
+                "value": 13,
+                "timestamp": "2024-11-18T15:24:03.243293",
+                "sub_values": [
+                    {
+                        "sub_value_id": 2807,
+                        "data": 5.212110264852155,
+                        "comment": "Excellent"
+                    },
+                    {
+                        "sub_value_id": 2017,
+                        "data": 8.866027325350393,
+                        "comment": "Excellent"
+                    }
+                ]
+            }
+        ]
+    }
+}

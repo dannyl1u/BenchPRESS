@@ -1,0 +1,52 @@
+attributes:
+  color: black
+  dimensions:
+    height: 28cm
+    length: 85cm
+    width: 28cm
+  material: glass
+  size: 70cm
+  weight: 19.53kg
+created_at: '2024-10-09T15:28:49.545468'
+id: 26
+name: Item_Zeta_26
+nested_structure:
+  active: false
+  location:
+    city: Paris
+    coordinates:
+      latitude: 2.735853
+      longitude: -134.939386
+    zipcode: 26624
+  metadata:
+    comments:
+    - text: Comment Completed!
+      timestamp: '2024-11-12T15:28:49.545588'
+      user: Kate
+    - text: Comment Interesting!
+      timestamp: '2024-11-29T15:28:49.545602'
+      user: Liam
+    creator:
+      id: 6494
+      name: User_Alice
+      roles:
+      - contributor
+      - admin
+  status: completed
+  sub_id: 2234
+  values:
+  - sub_values:
+    - comment: Average
+      data: 4.19241951823716
+      sub_value_id: 2815
+    - comment: Average
+      data: 2.390952683386076
+      sub_value_id: 5875
+    timestamp: '2024-12-06T15:28:49.545619'
+    value: 0
+    value_id: 66197
+tags:
+- debug
+- example
+- data
+- yaml

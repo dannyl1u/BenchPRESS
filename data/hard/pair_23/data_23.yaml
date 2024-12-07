@@ -1,0 +1,46 @@
+attributes:
+  color: yellow
+  dimensions:
+    height: 22cm
+    length: 67cm
+    width: 37cm
+  material: stone
+  size: 78cm
+  weight: 14.89kg
+created_at: '2024-08-23T16:15:36.711986'
+id: 23
+name: Item_Delta_23
+nested_structure:
+  active: true
+  location:
+    city: Tokyo
+    coordinates:
+      latitude: -57.805264
+      longitude: -71.117185
+    zipcode: 25831
+  metadata:
+    comments:
+    - text: Comment Amazing!
+      timestamp: '2024-10-20T16:15:36.712061'
+      user: Sarah
+    creator:
+      id: 1405
+      name: User_Charlie
+      roles:
+      - editor
+      - viewer
+  status: new
+  sub_id: 2546
+  values:
+  - sub_values:
+    - comment: Poor
+      data: 0.5442320587438072
+      sub_value_id: 1015
+    timestamp: '2024-12-05T16:15:36.712074'
+    value: 96
+    value_id: 94530
+tags:
+- vintage
+- debug
+- archive
+- random

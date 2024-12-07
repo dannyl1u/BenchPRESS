@@ -1,0 +1,66 @@
+{
+    "id": 33,
+    "name": "Item_Epsilon_33",
+    "attributes": {
+        "color": "black",
+        "size": "91cm",
+        "weight": "1.93kg",
+        "material": "wood",
+        "dimensions": {
+            "length": "69cm",
+            "width": "43cm",
+            "height": "36cm"
+        }
+    },
+    "created_at": "2024-08-18T16:18:24.960054",
+    "tags": [
+        "test",
+        "json",
+        "data",
+        "vintage"
+    ],
+    "nested_structure": {
+        "sub_id": 4504,
+        "active": false,
+        "status": "new",
+        "location": {
+            "city": "London",
+            "zipcode": 64119,
+            "coordinates": {
+                "latitude": -19.842217,
+                "longitude": -39.179542
+            }
+        },
+        "metadata": {
+            "creator": {
+                "id": 6395,
+                "name": "User_Frank",
+                "roles": [
+                    "viewer",
+                    "contributor"
+                ]
+            },
+            "comments": [
+                {
+                    "user": "Max",
+                    "timestamp": "2024-10-24T16:18:24.960065",
+                    "text": "Comment Pending!"
+                }
+            ]
+        },
+        "values": [
+            {
+                "value_id": 83637,
+                "value": 41,
+                "timestamp": "2024-11-04T16:18:24.960068",
+                "sub_values": [
+                    {
+                        "sub_value_id": 9345,
+                        "data": 8.198366463280571,
+                        "comment": "Excellent"
+                    }
+                ]
+            }
+        ]
+    }
+}

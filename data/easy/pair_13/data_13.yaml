@@ -1,0 +1,52 @@
+attributes:
+  color: orange
+  dimensions:
+    height: 19cm
+    length: 98cm
+    width: 35cm
+  material: glass
+  size: 28cm
+  weight: 19.00kg
+created_at: '2024-09-14T15:25:24.144558'
+id: 13
+name: Item_Zeta_13
+nested_structure:
+  active: true
+  location:
+    city: Berlin
+    coordinates:
+      latitude: -88.177033
+      longitude: -141.076132
+    zipcode: 52950
+  metadata:
+    comments:
+    - text: Comment Needs improvement!
+      timestamp: '2024-11-30T15:25:24.144633'
+      user: Max
+    - text: Comment Amazing!
+      timestamp: '2024-11-26T15:25:24.144640'
+      user: Liam
+    creator:
+      id: 1809
+      name: User_Diana
+      roles:
+      - moderator
+      - viewer
+  status: in_progress
+  sub_id: 2592
+  values:
+  - sub_values:
+    - comment: Poor
+      data: 3.0757717059666216
+      sub_value_id: 7411
+    - comment: Good
+      data: 3.531939199980819
+      sub_value_id: 9815
+    timestamp: '2024-07-18T15:25:24.144646'
+    value: 13
+    value_id: 88453
+tags:
+- debug
+- data
+- example
+- archive

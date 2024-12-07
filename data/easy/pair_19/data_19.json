@@ -1,0 +1,81 @@
+{
+    "id": 19,
+    "name": "Item_Zeta_19",
+    "attributes": {
+        "color": "black",
+        "size": "41cm",
+        "weight": "9.39kg",
+        "material": "plastic",
+        "dimensions": {
+            "length": "87cm",
+            "width": "48cm",
+            "height": "32cm"
+        }
+    },
+    "created_at": "2024-05-23T15:26:55.263552",
+    "tags": [
+        "random",
+        "json",
+        "archive",
+        "yaml"
+    ],
+    "nested_structure": {
+        "sub_id": 1824,
+        "active": true,
+        "status": "in_progress",
+        "location": {
+            "city": "New York",
+            "zipcode": 82243,
+            "coordinates": {
+                "latitude": 56.377804,
+                "longitude": 143.476769
+            }
+        },
+        "metadata": {
+            "creator": {
+                "id": 5700,
+                "name": "User_Eve",
+                "roles": [
+                    "editor",
+                    "admin"
+                ]
+            },
+            "comments": [
+                {
+                    "user": "Kate",
+                    "timestamp": "2024-11-18T15:26:55.263634",
+                    "text": "Comment Interesting!"
+                },
+                {
+                    "user": "Max",
+                    "timestamp": "2024-11-01T15:26:55.263640",
+                    "text": "Comment Completed!"
+                }
+            ]
+        },
+        "values": [
+            {
+                "value_id": 99876,
+                "value": 36,
+                "timestamp": "2024-07-27T15:26:55.263646",
+                "sub_values": [
+                    {
+                        "sub_value_id": 8953,
+                        "data": 5.691557043902898,
+                        "comment": "Poor"
+                    },
+                    {
+                        "sub_value_id": 1691,
+                        "data": 7.409107017846413,
+                        "comment": "Average"
+                    },
+                    {
+                        "sub_value_id": 7063,
+                        "data": 5.616879424509059,
+                        "comment": "Poor"
+                    }
+                ]
+            }
+        ]
+    }
+}

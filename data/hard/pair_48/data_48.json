@@ -1,0 +1,66 @@
+{
+    "id": 48,
+    "name": "Item_Beta_48",
+    "attributes": {
+        "color": "orange",
+        "size": "34cm",
+        "weight": "6.11kg",
+        "material": "metal",
+        "dimensions": {
+            "length": "55cm",
+            "width": "42cm",
+            "height": "14cm"
+        }
+    },
+    "created_at": "2024-10-16T16:22:30.653952",
+    "tags": [
+        "data",
+        "example",
+        "test",
+        "json"
+    ],
+    "nested_structure": {
+        "sub_id": 1761,
+        "active": false,
+        "status": "archived",
+        "location": {
+            "city": "Tokyo",
+            "zipcode": 94483,
+            "coordinates": {
+                "latitude": -22.096463,
+                "longitude": 74.629427
+            }
+        },
+        "metadata": {
+            "creator": {
+                "id": 7028,
+                "name": "User_Eve",
+                "roles": [
+                    "admin",
+                    "editor"
+                ]
+            },
+            "comments": [
+                {
+                    "user": "Kate",
+                    "timestamp": "2024-12-06T16:22:30.654045",
+                    "text": "Comment Interesting!"
+                }
+            ]
+        },
+        "values": [
+            {
+                "value_id": 31355,
+                "value": 94,
+                "timestamp": "2024-11-27T16:22:30.654059",
+                "sub_values": [
+                    {
+                        "sub_value_id": 2092,
+                        "data": 6.130212302617424,
+                        "comment": "Good"
+                    }
+                ]
+            }
+        ]
+    }
+}

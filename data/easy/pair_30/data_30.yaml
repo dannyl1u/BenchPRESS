@@ -1,0 +1,49 @@
+attributes:
+  color: yellow
+  dimensions:
+    height: 30cm
+    length: 84cm
+    width: 30cm
+  material: metal
+  size: 66cm
+  weight: 2.62kg
+created_at: '2024-12-04T15:29:49.964985'
+id: 30
+name: Item_Theta_30
+nested_structure:
+  active: false
+  location:
+    city: Paris
+    coordinates:
+      latitude: 70.895596
+      longitude: -48.956478
+    zipcode: 23918
+  metadata:
+    comments:
+    - text: Comment Completed!
+      timestamp: '2024-11-08T15:29:49.965283'
+      user: Kate
+    creator:
+      id: 4181
+      name: User_Eve
+      roles:
+      - editor
+      - admin
+  status: archived
+  sub_id: 9828
+  values:
+  - sub_values:
+    - comment: Poor
+      data: 3.0678746147495795
+      sub_value_id: 9695
+    - comment: Excellent
+      data: 1.3472262893809182
+      sub_value_id: 5538
+    timestamp: '2024-08-01T15:29:49.965332'
+    value: 2
+    value_id: 77811
+tags:
+- test
+- yaml
+- vintage
+- json

@@ -1,0 +1,52 @@
+attributes:
+  color: blue
+  dimensions:
+    height: 22cm
+    length: 98cm
+    width: 100cm
+  material: wood
+  size: 45cm
+  weight: 6.73kg
+created_at: '2024-06-26T15:31:52.596076'
+id: 38
+name: Item_Alpha_38
+nested_structure:
+  active: false
+  location:
+    city: Tokyo
+    coordinates:
+      latitude: 31.606749
+      longitude: -84.198567
+    zipcode: 32371
+  metadata:
+    comments:
+    - text: Comment Interesting!
+      timestamp: '2024-11-06T15:31:52.596117'
+      user: Max
+    - text: Comment Interesting!
+      timestamp: '2024-11-14T15:31:52.596121'
+      user: John
+    creator:
+      id: 6872
+      name: User_Alice
+      roles:
+      - moderator
+      - contributor
+  status: new
+  sub_id: 5425
+  values:
+  - sub_values:
+    - comment: Good
+      data: 1.736059938579475
+      sub_value_id: 9705
+    - comment: Average
+      data: 6.052824050697917
+      sub_value_id: 7560
+    timestamp: '2024-07-29T15:31:52.596125'
+    value: 81
+    value_id: 14691
+tags:
+- random
+- json
+- debug
+- unique

@@ -1,0 +1,58 @@
+attributes:
+  color: black
+  dimensions:
+    height: 48cm
+    length: 99cm
+    width: 65cm
+  material: glass
+  size: 52cm
+  weight: 3.14kg
+created_at: '2024-08-20T15:24:36.325874'
+id: 10
+name: Item_Gamma_10
+nested_structure:
+  active: true
+  location:
+    city: Vancouver
+    coordinates:
+      latitude: 26.728661
+      longitude: -109.960923
+    zipcode: 77031
+  metadata:
+    comments:
+    - text: Comment Interesting!
+      timestamp: '2024-12-02T15:24:36.326110'
+      user: Liam
+    - text: Comment Interesting!
+      timestamp: '2024-11-07T15:24:36.326155'
+      user: Kate
+    - text: Comment Pending!
+      timestamp: '2024-11-19T15:24:36.326165'
+      user: John
+    creator:
+      id: 8958
+      name: User_Frank
+      roles:
+      - contributor
+      - editor
+  status: completed
+  sub_id: 3122
+  values:
+  - sub_values:
+    - comment: Average
+      data: 0.829262006427693
+      sub_value_id: 8109
+    - comment: Good
+      data: 5.017777622491974
+      sub_value_id: 7076
+    - comment: Average
+      data: 7.077339056797043
+      sub_value_id: 1817
+    timestamp: '2024-05-30T15:24:36.326191'
+    value: 29
+    value_id: 29005
+tags:
+- yaml
+- data
+- debug
+- archive

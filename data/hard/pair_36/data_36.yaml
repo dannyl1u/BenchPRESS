@@ -1,0 +1,46 @@
+attributes:
+  color: black
+  dimensions:
+    height: 19cm
+    length: 13cm
+    width: 89cm
+  material: plastic
+  size: 97cm
+  weight: 7.19kg
+created_at: '2024-11-29T16:19:16.893433'
+id: 36
+name: Item_Zeta_36
+nested_structure:
+  active: false
+  location:
+    city: Berlin
+    coordinates:
+      latitude: -24.575298
+      longitude: 73.767845
+    zipcode: 47958
+  metadata:
+    comments:
+    - text: Comment Interesting!
+      timestamp: '2024-12-06T16:19:16.893538'
+      user: John
+    creator:
+      id: 4916
+      name: User_Frank
+      roles:
+      - contributor
+      - admin
+  status: archived
+  sub_id: 2514
+  values:
+  - sub_values:
+    - comment: Poor
+      data: 8.820707698491953
+      sub_value_id: 5858
+    timestamp: '2024-07-24T16:19:16.893566'
+    value: 66
+    value_id: 85638
+tags:
+- example
+- json
+- yaml
+- debug

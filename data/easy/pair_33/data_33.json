@@ -1,0 +1,81 @@
+{
+    "id": 33,
+    "name": "Item_Beta_33",
+    "attributes": {
+        "color": "black",
+        "size": "39cm",
+        "weight": "7.67kg",
+        "material": "glass",
+        "dimensions": {
+            "length": "21cm",
+            "width": "37cm",
+            "height": "7cm"
+        }
+    },
+    "created_at": "2024-11-05T15:30:35.030127",
+    "tags": [
+        "yaml",
+        "vintage",
+        "example",
+        "data"
+    ],
+    "nested_structure": {
+        "sub_id": 4756,
+        "active": false,
+        "status": "completed",
+        "location": {
+            "city": "New York",
+            "zipcode": 30976,
+            "coordinates": {
+                "latitude": -23.038543,
+                "longitude": 71.988213
+            }
+        },
+        "metadata": {
+            "creator": {
+                "id": 6643,
+                "name": "User_Bob",
+                "roles": [
+                    "admin",
+                    "moderator"
+                ]
+            },
+            "comments": [
+                {
+                    "user": "John",
+                    "timestamp": "2024-10-22T15:30:35.030285",
+                    "text": "Comment Amazing!"
+                },
+                {
+                    "user": "Liam",
+                    "timestamp": "2024-12-06T15:30:35.030310",
+                    "text": "Comment Pending!"
+                }
+            ]
+        },
+        "values": [
+            {
+                "value_id": 42327,
+                "value": 94,
+                "timestamp": "2024-10-23T15:30:35.030324",
+                "sub_values": [
+                    {
+                        "sub_value_id": 5606,
+                        "data": 2.3553015052882498,
+                        "comment": "Good"
+                    },
+                    {
+                        "sub_value_id": 5663,
+                        "data": 4.550398669031454,
+                        "comment": "Good"
+                    },
+                    {
+                        "sub_value_id": 6364,
+                        "data": 1.7361121491892295,
+                        "comment": "Average"
+                    }
+                ]
+            }
+        ]
+    }
+}

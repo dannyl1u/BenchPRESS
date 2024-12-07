@@ -1,0 +1,52 @@
+attributes:
+  color: green
+  dimensions:
+    height: 10cm
+    length: 89cm
+    width: 45cm
+  material: wood
+  size: 68cm
+  weight: 19.93kg
+created_at: '2024-11-15T15:27:11.527099'
+id: 20
+name: Item_Theta_20
+nested_structure:
+  active: false
+  location:
+    city: New York
+    coordinates:
+      latitude: -53.108168
+      longitude: -104.869512
+    zipcode: 47649
+  metadata:
+    comments:
+    - text: Comment Pending!
+      timestamp: '2024-11-07T15:27:11.527184'
+      user: Sarah
+    - text: Comment Needs improvement!
+      timestamp: '2024-10-28T15:27:11.527197'
+      user: Sarah
+    - text: Comment Amazing!
+      timestamp: '2024-11-28T15:27:11.527201'
+      user: Liam
+    creator:
+      id: 5084
+      name: User_Bob
+      roles:
+      - moderator
+      - editor
+  status: in_progress
+  sub_id: 1197
+  values:
+  - sub_values:
+    - comment: Poor
+      data: 1.0313507874440297
+      sub_value_id: 8287
+    timestamp: '2024-10-31T15:27:11.527211'
+    value: 38
+    value_id: 39461
+tags:
+- vintage
+- test
+- debug
+- data

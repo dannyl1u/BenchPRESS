@@ -1,0 +1,46 @@
+attributes:
+  color: blue
+  dimensions:
+    height: 8cm
+    length: 70cm
+    width: 26cm
+  material: stone
+  size: 41cm
+  weight: 4.21kg
+created_at: '2024-08-06T15:34:26.363876'
+id: 47
+name: Item_Beta_47
+nested_structure:
+  active: true
+  location:
+    city: Paris
+    coordinates:
+      latitude: -9.737691
+      longitude: 122.695906
+    zipcode: 16938
+  metadata:
+    comments:
+    - text: Comment Amazing!
+      timestamp: '2024-11-03T15:34:26.364049'
+      user: Sarah
+    creator:
+      id: 3704
+      name: User_Alice
+      roles:
+      - viewer
+      - moderator
+  status: in_progress
+  sub_id: 7965
+  values:
+  - sub_values:
+    - comment: Excellent
+      data: 3.630144940518241
+      sub_value_id: 2464
+    timestamp: '2024-07-24T15:34:26.364090'
+    value: 40
+    value_id: 30529
+tags:
+- yaml
+- unique
+- data
+- vintage

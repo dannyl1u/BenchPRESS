@@ -1,0 +1,52 @@
+attributes:
+  color: green
+  dimensions:
+    height: 10cm
+    length: 59cm
+    width: 42cm
+  material: fabric
+  size: 99cm
+  weight: 11.89kg
+created_at: '2024-10-09T15:29:19.151476'
+id: 28
+name: Item_Zeta_28
+nested_structure:
+  active: false
+  location:
+    city: Tokyo
+    coordinates:
+      latitude: 17.046709
+      longitude: -179.883534
+    zipcode: 53132
+  metadata:
+    comments:
+    - text: Comment Amazing!
+      timestamp: '2024-11-21T15:29:19.151575'
+      user: Kate
+    - text: Comment Amazing!
+      timestamp: '2024-11-25T15:29:19.151594'
+      user: Sarah
+    creator:
+      id: 9928
+      name: User_Bob
+      roles:
+      - editor
+      - admin
+  status: new
+  sub_id: 3883
+  values:
+  - sub_values:
+    - comment: Poor
+      data: 7.6260929031381
+      sub_value_id: 9725
+    - comment: Average
+      data: 3.038773175695884
+      sub_value_id: 6944
+    timestamp: '2024-07-06T15:29:19.151606'
+    value: 76
+    value_id: 61046
+tags:
+- random
+- data
+- test
+- yaml

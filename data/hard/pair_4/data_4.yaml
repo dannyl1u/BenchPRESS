@@ -1,0 +1,46 @@
+attributes:
+  color: white
+  dimensions:
+    height: 20cm
+    length: 81cm
+    width: 47cm
+  material: stone
+  size: 47cm
+  weight: 12.98kg
+created_at: '2024-08-31T16:10:53.564363'
+id: 4
+name: Item_Gamma_4
+nested_structure:
+  active: true
+  location:
+    city: Paris
+    coordinates:
+      latitude: -76.19368
+      longitude: 27.239746
+    zipcode: 34549
+  metadata:
+    comments:
+    - text: Comment Completed!
+      timestamp: '2024-11-16T16:10:53.564523'
+      user: John
+    creator:
+      id: 5386
+      name: User_Bob
+      roles:
+      - moderator
+      - editor
+  status: in_progress
+  sub_id: 3461
+  values:
+  - sub_values:
+    - comment: Poor
+      data: 3.4992583986348267
+      sub_value_id: 1597
+    timestamp: '2024-09-12T16:10:53.564532'
+    value: 64
+    value_id: 40975
+tags:
+- vintage
+- yaml
+- test
+- archive

@@ -1,0 +1,55 @@
+attributes:
+  color: yellow
+  dimensions:
+    height: 41cm
+    length: 33cm
+    width: 71cm
+  material: metal
+  size: 12cm
+  weight: 7.76kg
+created_at: '2024-11-29T16:54:09.190317'
+id: 1
+name: Item_Gamma_1
+nested_structure:
+  active: true
+  location:
+    city: London
+    coordinates:
+      latitude: -54.665491
+      longitude: -171.793467
+    zipcode: 97229
+  metadata:
+    comments:
+    - text: Comment Pending!
+      timestamp: '2024-12-02T16:54:09.190783'
+      user: Sarah
+    - text: Comment Needs improvement!
+      timestamp: '2024-11-11T16:54:09.190791'
+      user: Max
+    - text: Comment Pending!
+      timestamp: '2024-11-07T16:54:09.190794'
+      user: Max
+    creator:
+      id: 3020
+      name: User_Alice
+      roles:
+      - contributor
+      - admin
+  status: new
+  sub_id: 7519
+  values:
+  - sub_values:
+    - comment: Good
+      data: 0.7972657926238294
+      sub_value_id: 9570
+    - comment: Average
+      data: 8.842055920218996
+      sub_value_id: 6475
+    timestamp: '2024-11-27T16:54:09.190798'
+    value: 92
+    value_id: 65920
+tags:
+- example
+- debug
+- data
+- random

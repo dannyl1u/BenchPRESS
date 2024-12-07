@@ -1,0 +1,46 @@
+attributes:
+  color: purple
+  dimensions:
+    height: 27cm
+    length: 80cm
+    width: 38cm
+  material: glass
+  size: 96cm
+  weight: 19.39kg
+created_at: '2024-10-29T16:20:54.395099'
+id: 42
+name: Item_Delta_42
+nested_structure:
+  active: false
+  location:
+    city: London
+    coordinates:
+      latitude: -41.667278
+      longitude: -84.051496
+    zipcode: 65609
+  metadata:
+    comments:
+    - text: Comment Completed!
+      timestamp: '2024-11-10T16:20:54.395181'
+      user: Max
+    creator:
+      id: 3099
+      name: User_Bob
+      roles:
+      - contributor
+      - editor
+  status: archived
+  sub_id: 7584
+  values:
+  - sub_values:
+    - comment: Poor
+      data: 6.664011582966597
+      sub_value_id: 2819
+    timestamp: '2024-07-16T16:20:54.395197'
+    value: 3
+    value_id: 96112
+tags:
+- unique
+- test
+- example
+- archive

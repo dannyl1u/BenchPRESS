@@ -1,0 +1,66 @@
+{
+    "id": 35,
+    "name": "Item_Delta_35",
+    "attributes": {
+        "color": "orange",
+        "size": "14cm",
+        "weight": "2.76kg",
+        "material": "metal",
+        "dimensions": {
+            "length": "15cm",
+            "width": "52cm",
+            "height": "18cm"
+        }
+    },
+    "created_at": "2024-07-01T16:18:58.172365",
+    "tags": [
+        "random",
+        "example",
+        "yaml",
+        "archive"
+    ],
+    "nested_structure": {
+        "sub_id": 3232,
+        "active": true,
+        "status": "completed",
+        "location": {
+            "city": "Berlin",
+            "zipcode": 26715,
+            "coordinates": {
+                "latitude": -21.356427,
+                "longitude": 48.509423
+            }
+        },
+        "metadata": {
+            "creator": {
+                "id": 2058,
+                "name": "User_Charlie",
+                "roles": [
+                    "contributor",
+                    "admin"
+                ]
+            },
+            "comments": [
+                {
+                    "user": "Max",
+                    "timestamp": "2024-11-24T16:18:58.172399",
+                    "text": "Comment Pending!"
+                }
+            ]
+        },
+        "values": [
+            {
+                "value_id": 20415,
+                "value": 68,
+                "timestamp": "2024-10-19T16:18:58.172409",
+                "sub_values": [
+                    {
+                        "sub_value_id": 1572,
+                        "data": 5.359157552404757,
+                        "comment": "Average"
+                    }
+                ]
+            }
+        ]
+    }
+}

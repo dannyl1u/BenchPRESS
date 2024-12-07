@@ -1,0 +1,81 @@
+{
+    "id": 46,
+    "name": "Item_Alpha_46",
+    "attributes": {
+        "color": "white",
+        "size": "25cm",
+        "weight": "18.30kg",
+        "material": "fabric",
+        "dimensions": {
+            "length": "78cm",
+            "width": "15cm",
+            "height": "32cm"
+        }
+    },
+    "created_at": "2024-06-17T15:34:08.740858",
+    "tags": [
+        "archive",
+        "random",
+        "debug",
+        "example"
+    ],
+    "nested_structure": {
+        "sub_id": 9012,
+        "active": true,
+        "status": "completed",
+        "location": {
+            "city": "Berlin",
+            "zipcode": 48799,
+            "coordinates": {
+                "latitude": 45.132304,
+                "longitude": -22.54831
+            }
+        },
+        "metadata": {
+            "creator": {
+                "id": 2065,
+                "name": "User_Charlie",
+                "roles": [
+                    "moderator",
+                    "admin"
+                ]
+            },
+            "comments": [
+                {
+                    "user": "John",
+                    "timestamp": "2024-12-05T15:34:08.740952",
+                    "text": "Comment Completed!"
+                },
+                {
+                    "user": "Liam",
+                    "timestamp": "2024-10-23T15:34:08.740968",
+                    "text": "Comment Amazing!"
+                }
+            ]
+        },
+        "values": [
+            {
+                "value_id": 87824,
+                "value": 52,
+                "timestamp": "2024-08-05T15:34:08.740978",
+                "sub_values": [
+                    {
+                        "sub_value_id": 6370,
+                        "data": 1.2951121255773044,
+                        "comment": "Poor"
+                    },
+                    {
+                        "sub_value_id": 5083,
+                        "data": 6.042295683838467,
+                        "comment": "Good"
+                    },
+                    {
+                        "sub_value_id": 8670,
+                        "data": 2.2803196780261312,
+                        "comment": "Good"
+                    }
+                ]
+            }
+        ]
+    }
+}

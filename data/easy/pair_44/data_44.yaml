@@ -1,0 +1,52 @@
+attributes:
+  color: orange
+  dimensions:
+    height: 26cm
+    length: 79cm
+    width: 22cm
+  material: metal
+  size: 9cm
+  weight: 4.03kg
+created_at: '2024-09-20T15:33:37.300049'
+id: 44
+name: Item_Alpha_44
+nested_structure:
+  active: true
+  location:
+    city: Tokyo
+    coordinates:
+      latitude: -16.204716
+      longitude: 3.643549
+    zipcode: 43894
+  metadata:
+    comments:
+    - text: Comment Interesting!
+      timestamp: '2024-10-28T15:33:37.300235'
+      user: Sarah
+    - text: Comment Amazing!
+      timestamp: '2024-12-05T15:33:37.300262'
+      user: Kate
+    creator:
+      id: 2997
+      name: User_Eve
+      roles:
+      - admin
+      - moderator
+  status: completed
+  sub_id: 4115
+  values:
+  - sub_values:
+    - comment: Good
+      data: 8.610594093997575
+      sub_value_id: 7716
+    - comment: Average
+      data: 8.012506255116325
+      sub_value_id: 5507
+    timestamp: '2024-10-06T15:33:37.300295'
+    value: 96
+    value_id: 36252
+tags:
+- yaml
+- debug
+- json
+- random

@@ -1,0 +1,76 @@
+{
+    "id": 38,
+    "name": "Item_Alpha_38",
+    "attributes": {
+        "color": "blue",
+        "size": "45cm",
+        "weight": "6.73kg",
+        "material": "wood",
+        "dimensions": {
+            "length": "98cm",
+            "width": "100cm",
+            "height": "22cm"
+        }
+    },
+    "created_at": "2024-06-26T15:31:52.596076",
+    "tags": [
+        "random",
+        "json",
+        "debug",
+        "unique"
+    ],
+    "nested_structure": {
+        "sub_id": 5425,
+        "active": false,
+        "status": "new",
+        "location": {
+            "city": "Tokyo",
+            "zipcode": 32371,
+            "coordinates": {
+                "latitude": 31.606749,
+                "longitude": -84.198567
+            }
+        },
+        "metadata": {
+            "creator": {
+                "id": 6872,
+                "name": "User_Alice",
+                "roles": [
+                    "moderator",
+                    "contributor"
+                ]
+            },
+            "comments": [
+                {
+                    "user": "Max",
+                    "timestamp": "2024-11-06T15:31:52.596117",
+                    "text": "Comment Interesting!"
+                },
+                {
+                    "user": "John",
+                    "timestamp": "2024-11-14T15:31:52.596121",
+                    "text": "Comment Interesting!"
+                }
+            ]
+        },
+        "values": [
+            {
+                "value_id": 14691,
+                "value": 81,
+                "timestamp": "2024-07-29T15:31:52.596125",
+                "sub_values": [
+                    {
+                        "sub_value_id": 9705,
+                        "data": 1.736059938579475,
+                        "comment": "Good"
+                    },
+                    {
+                        "sub_value_id": 7560,
+                        "data": 6.052824050697917,
+                        "comment": "Average"
+                    }
+                ]
+            }
+        ]
+    }
+}

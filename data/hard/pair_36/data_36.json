@@ -1,0 +1,66 @@
+{
+    "id": 36,
+    "name": "Item_Zeta_36",
+    "attributes": {
+        "color": "blue",
+        "size": "76cm",
+        "weight": "3.84kg",
+        "material": "wood",
+        "dimensions": {
+            "length": "57cm",
+            "width": "64cm",
+            "height": "22cm"
+        }
+    },
+    "created_at": "2024-07-26T16:19:16.893624",
+    "tags": [
+        "yaml",
+        "archive",
+        "test",
+        "json"
+    ],
+    "nested_structure": {
+        "sub_id": 9779,
+        "active": true,
+        "status": "in_progress",
+        "location": {
+            "city": "New York",
+            "zipcode": 84578,
+            "coordinates": {
+                "latitude": 69.112327,
+                "longitude": 64.79132
+            }
+        },
+        "metadata": {
+            "creator": {
+                "id": 1265,
+                "name": "User_Bob",
+                "roles": [
+                    "admin",
+                    "viewer"
+                ]
+            },
+            "comments": [
+                {
+                    "user": "Kate",
+                    "timestamp": "2024-10-24T16:19:16.893639",
+                    "text": "Comment Interesting!"
+                }
+            ]
+        },
+        "values": [
+            {
+                "value_id": 97119,
+                "value": 58,
+                "timestamp": "2024-11-23T16:19:16.893644",
+                "sub_values": [
+                    {
+                        "sub_value_id": 8842,
+                        "data": 2.236084924267494,
+                        "comment": "Poor"
+                    }
+                ]
+            }
+        ]
+    }
+}

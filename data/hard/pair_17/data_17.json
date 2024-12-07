@@ -1,0 +1,66 @@
+{
+    "id": 17,
+    "name": "Item_Delta_17",
+    "attributes": {
+        "color": "orange",
+        "size": "59cm",
+        "weight": "10.87kg",
+        "material": "wood",
+        "dimensions": {
+            "length": "77cm",
+            "width": "19cm",
+            "height": "41cm"
+        }
+    },
+    "created_at": "2024-06-04T16:14:00.959985",
+    "tags": [
+        "json",
+        "archive",
+        "vintage",
+        "random"
+    ],
+    "nested_structure": {
+        "sub_id": 4942,
+        "active": false,
+        "status": "completed",
+        "location": {
+            "city": "Tokyo",
+            "zipcode": 62324,
+            "coordinates": {
+                "latitude": -46.303981,
+                "longitude": 148.638898
+            }
+        },
+        "metadata": {
+            "creator": {
+                "id": 8233,
+                "name": "User_Eve",
+                "roles": [
+                    "viewer",
+                    "contributor"
+                ]
+            },
+            "comments": [
+                {
+                    "user": "Liam",
+                    "timestamp": "2024-11-14T16:14:00.960000",
+                    "text": "Comment Interesting!"
+                }
+            ]
+        },
+        "values": [
+            {
+                "value_id": 66315,
+                "value": 50,
+                "timestamp": "2024-10-24T16:14:00.960004",
+                "sub_values": [
+                    {
+                        "sub_value_id": 6678,
+                        "data": 0.26260220756610453,
+                        "comment": "Excellent"
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+attributes:
+  color: green
+  dimensions:
+    height: 45cm
+    length: 56cm
+    width: 18cm
+  material: wood
+  size: 83cm
+  weight: 3.56kg
+created_at: '2024-07-28T16:16:08.980579'
+id: 25
+name: Item_Beta_25
+nested_structure:
+  active: true
+  location:
+    city: Paris
+    coordinates:
+      latitude: -2.374151
+      longitude: 39.196455
+    zipcode: 79964
+  metadata:
+    comments:
+    - text: Comment Completed!
+      timestamp: '2024-11-08T16:16:08.980648'
+      user: Kate
+    creator:
+      id: 3534
+      name: User_Bob
+      roles:
+      - moderator
+      - admin
+  status: completed
+  sub_id: 2972
+  values:
+  - sub_values:
+    - comment: Average
+      data: 0.23181852691991786
+      sub_value_id: 4541
+    timestamp: '2024-11-10T16:16:08.980657'
+    value: 30
+    value_id: 80921
+tags:
+- vintage
+- random
+- json
+- unique

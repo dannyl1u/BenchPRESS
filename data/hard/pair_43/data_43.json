@@ -1,0 +1,66 @@
+{
+    "id": 43,
+    "name": "Item_Zeta_43",
+    "attributes": {
+        "color": "black",
+        "size": "100cm",
+        "weight": "7.04kg",
+        "material": "metal",
+        "dimensions": {
+            "length": "81cm",
+            "width": "67cm",
+            "height": "19cm"
+        }
+    },
+    "created_at": "2024-07-15T16:21:09.808855",
+    "tags": [
+        "vintage",
+        "data",
+        "debug",
+        "yaml"
+    ],
+    "nested_structure": {
+        "sub_id": 3048,
+        "active": false,
+        "status": "in_progress",
+        "location": {
+            "city": "New York",
+            "zipcode": 12739,
+            "coordinates": {
+                "latitude": 85.18507,
+                "longitude": 156.112657
+            }
+        },
+        "metadata": {
+            "creator": {
+                "id": 7267,
+                "name": "User_Diana",
+                "roles": [
+                    "moderator",
+                    "contributor"
+                ]
+            },
+            "comments": [
+                {
+                    "user": "Sarah",
+                    "timestamp": "2024-11-05T16:21:09.808903",
+                    "text": "Comment Pending!"
+                }
+            ]
+        },
+        "values": [
+            {
+                "value_id": 86403,
+                "value": 69,
+                "timestamp": "2024-05-27T16:21:09.808914",
+                "sub_values": [
+                    {
+                        "sub_value_id": 5698,
+                        "data": 6.032301249991022,
+                        "comment": "Poor"
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "id": 28,
+    "name": "Item_Alpha_28",
+    "attributes": {
+        "color": "green",
+        "size": "61cm",
+        "weight": "9.90kg",
+        "material": "stone",
+        "dimensions": {
+            "length": "48cm",
+            "width": "61cm",
+            "height": "49cm"
+        }
+    },
+    "created_at": "2024-08-25T16:17:01.531899",
+    "tags": [
+        "unique",
+        "yaml",
+        "debug",
+        "random"
+    ],
+    "nested_structure": {
+        "sub_id": 7001,
+        "active": true,
+        "status": "new",
+        "location": {
+            "city": "New York",
+            "zipcode": 37141,
+            "coordinates": {
+                "latitude": 4.946816,
+                "longitude": -30.40341
+            }
+        },
+        "metadata": {
+            "creator": {
+                "id": 7481,
+                "name": "User_Diana",
+                "roles": [
+                    "admin",
+                    "viewer"
+                ]
+            },
+            "comments": [
+                {
+                    "user": "Liam",
+                    "timestamp": "2024-10-27T16:17:01.531918",
+                    "text": "Comment Interesting!"
+                }
+            ]
+        },
+        "values": [
+            {
+                "value_id": 84710,
+                "value": 7,
+                "timestamp": "2024-09-29T16:17:01.531925",
+                "sub_values": [
+                    {
+                        "sub_value_id": 6073,
+                        "data": 9.33660587223064,
+                        "comment": "Average"
+                    }
+                ]
+            }
+        ]
+    }
+}

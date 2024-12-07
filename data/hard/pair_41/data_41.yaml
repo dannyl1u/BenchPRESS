@@ -1,0 +1,46 @@
+attributes:
+  color: orange
+  dimensions:
+    height: 24cm
+    length: 78cm
+    width: 25cm
+  material: stone
+  size: 29cm
+  weight: 10.97kg
+created_at: '2024-06-26T16:20:37.498600'
+id: 41
+name: Item_Zeta_41
+nested_structure:
+  active: true
+  location:
+    city: Berlin
+    coordinates:
+      latitude: 80.365977
+      longitude: -30.933274
+    zipcode: 10132
+  metadata:
+    comments:
+    - text: Comment Amazing!
+      timestamp: '2024-11-15T16:20:37.498710'
+      user: Kate
+    creator:
+      id: 6634
+      name: User_Diana
+      roles:
+      - editor
+      - moderator
+  status: in_progress
+  sub_id: 6180
+  values:
+  - sub_values:
+    - comment: Excellent
+      data: 8.082225130588315
+      sub_value_id: 3953
+    timestamp: '2024-07-09T16:20:37.498725'
+    value: 54
+    value_id: 90869
+tags:
+- vintage
+- data
+- random
+- example

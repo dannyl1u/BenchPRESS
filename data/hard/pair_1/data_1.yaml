@@ -1,0 +1,46 @@
+attributes:
+  color: white
+  dimensions:
+    height: 7cm
+    length: 15cm
+    width: 16cm
+  material: fabric
+  size: 10cm
+  weight: 15.75kg
+created_at: '2024-08-05T16:54:14.410347'
+id: 1
+name: Item_Gamma_1
+nested_structure:
+  active: false
+  location:
+    city: London
+    coordinates:
+      latitude: 34.035976
+      longitude: 97.038189
+    zipcode: 80129
+  metadata:
+    comments:
+    - text: Comment Amazing!
+      timestamp: '2024-11-01T16:54:14.410425'
+      user: Liam
+    creator:
+      id: 8706
+      name: User_Frank
+      roles:
+      - contributor
+      - admin
+  status: archived
+  sub_id: 9227
+  values:
+  - sub_values:
+    - comment: Poor
+      data: 1.634322764354095
+      sub_value_id: 4025
+    timestamp: '2024-12-02T16:54:14.410438'
+    value: 61
+    value_id: 45083
+tags:
+- vintage
+- json
+- yaml
+- data

@@ -1,0 +1,66 @@
+{
+    "id": 5,
+    "name": "Item_Epsilon_5",
+    "attributes": {
+        "color": "blue",
+        "size": "95cm",
+        "weight": "9.50kg",
+        "material": "plastic",
+        "dimensions": {
+            "length": "19cm",
+            "width": "89cm",
+            "height": "18cm"
+        }
+    },
+    "created_at": "2024-08-30T16:10:58.656295",
+    "tags": [
+        "unique",
+        "random",
+        "test",
+        "yaml"
+    ],
+    "nested_structure": {
+        "sub_id": 6341,
+        "active": true,
+        "status": "completed",
+        "location": {
+            "city": "San Francisco",
+            "zipcode": 24557,
+            "coordinates": {
+                "latitude": 57.342246,
+                "longitude": -2.801754
+            }
+        },
+        "metadata": {
+            "creator": {
+                "id": 8567,
+                "name": "User_Diana",
+                "roles": [
+                    "viewer",
+                    "admin"
+                ]
+            },
+            "comments": [
+                {
+                    "user": "Max",
+                    "timestamp": "2024-11-22T16:10:58.656309",
+                    "text": "Comment Needs improvement!"
+                }
+            ]
+        },
+        "values": [
+            {
+                "value_id": 79264,
+                "value": 16,
+                "timestamp": "2024-08-29T16:10:58.656314",
+                "sub_values": [
+                    {
+                        "sub_value_id": 6833,
+                        "data": 4.058748980445562,
+                        "comment": "Average"
+                    }
+                ]
+            }
+        ]
+    }
+}

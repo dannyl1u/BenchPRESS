@@ -1,0 +1,46 @@
+attributes:
+  color: white
+  dimensions:
+    height: 40cm
+    length: 62cm
+    width: 43cm
+  material: stone
+  size: 22cm
+  weight: 7.57kg
+created_at: '2024-10-17T16:11:49.662696'
+id: 9
+name: Item_Alpha_9
+nested_structure:
+  active: false
+  location:
+    city: Tokyo
+    coordinates:
+      latitude: -48.891166
+      longitude: -63.237084
+    zipcode: 42787
+  metadata:
+    comments:
+    - text: Comment Amazing!
+      timestamp: '2024-11-16T16:11:49.662730'
+      user: Max
+    creator:
+      id: 9337
+      name: User_Eve
+      roles:
+      - contributor
+      - moderator
+  status: new
+  sub_id: 8495
+  values:
+  - sub_values:
+    - comment: Average
+      data: 4.02858577565216
+      sub_value_id: 2564
+    timestamp: '2024-11-19T16:11:49.662735'
+    value: 30
+    value_id: 41714
+tags:
+- vintage
+- example
+- unique
+- test

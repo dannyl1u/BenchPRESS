@@ -1,0 +1,66 @@
+{
+    "id": 22,
+    "name": "Item_Zeta_22",
+    "attributes": {
+        "color": "purple",
+        "size": "26cm",
+        "weight": "19.45kg",
+        "material": "metal",
+        "dimensions": {
+            "length": "32cm",
+            "width": "67cm",
+            "height": "41cm"
+        }
+    },
+    "created_at": "2024-06-28T16:15:20.603117",
+    "tags": [
+        "yaml",
+        "json",
+        "unique",
+        "archive"
+    ],
+    "nested_structure": {
+        "sub_id": 3471,
+        "active": false,
+        "status": "in_progress",
+        "location": {
+            "city": "Paris",
+            "zipcode": 99293,
+            "coordinates": {
+                "latitude": -77.66284,
+                "longitude": 7.871074
+            }
+        },
+        "metadata": {
+            "creator": {
+                "id": 4488,
+                "name": "User_Charlie",
+                "roles": [
+                    "admin",
+                    "editor"
+                ]
+            },
+            "comments": [
+                {
+                    "user": "John",
+                    "timestamp": "2024-11-25T16:15:20.603141",
+                    "text": "Comment Needs improvement!"
+                }
+            ]
+        },
+        "values": [
+            {
+                "value_id": 66053,
+                "value": 8,
+                "timestamp": "2024-12-05T16:15:20.603147",
+                "sub_values": [
+                    {
+                        "sub_value_id": 1603,
+                        "data": 6.974498775547779,
+                        "comment": "Poor"
+                    }
+                ]
+            }
+        ]
+    }
+}

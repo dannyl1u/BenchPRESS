@@ -1,0 +1,71 @@
+{
+    "id": 30,
+    "name": "Item_Theta_30",
+    "attributes": {
+        "color": "yellow",
+        "size": "66cm",
+        "weight": "2.62kg",
+        "material": "metal",
+        "dimensions": {
+            "length": "84cm",
+            "width": "30cm",
+            "height": "30cm"
+        }
+    },
+    "created_at": "2024-12-04T15:29:49.964985",
+    "tags": [
+        "test",
+        "yaml",
+        "vintage",
+        "json"
+    ],
+    "nested_structure": {
+        "sub_id": 9828,
+        "active": false,
+        "status": "archived",
+        "location": {
+            "city": "Paris",
+            "zipcode": 23918,
+            "coordinates": {
+                "latitude": 70.895596,
+                "longitude": -48.956478
+            }
+        },
+        "metadata": {
+            "creator": {
+                "id": 4181,
+                "name": "User_Eve",
+                "roles": [
+                    "editor",
+                    "admin"
+                ]
+            },
+            "comments": [
+                {
+                    "user": "Kate",
+                    "timestamp": "2024-11-08T15:29:49.965283",
+                    "text": "Comment Completed!"
+                }
+            ]
+        },
+        "values": [
+            {
+                "value_id": 77811,
+                "value": 2,
+                "timestamp": "2024-08-01T15:29:49.965332",
+                "sub_values": [
+                    {
+                        "sub_value_id": 9695,
+                        "data": 3.0678746147495795,
+                        "comment": "Poor"
+                    },
+                    {
+                        "sub_value_id": 5538,
+                        "data": 1.3472262893809182,
+                        "comment": "Excellent"
+                    }
+                ]
+            }
+        ]
+    }
+}

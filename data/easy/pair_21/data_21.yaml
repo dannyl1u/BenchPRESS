@@ -1,0 +1,52 @@
+attributes:
+  color: orange
+  dimensions:
+    height: 30cm
+    length: 16cm
+    width: 60cm
+  material: fabric
+  size: 88cm
+  weight: 10.83kg
+created_at: '2024-08-19T15:27:27.555115'
+id: 21
+name: Item_Epsilon_21
+nested_structure:
+  active: true
+  location:
+    city: Vancouver
+    coordinates:
+      latitude: -85.679286
+      longitude: 55.878491
+    zipcode: 95193
+  metadata:
+    comments:
+    - text: Comment Amazing!
+      timestamp: '2024-11-24T15:27:27.555263'
+      user: Max
+    creator:
+      id: 2081
+      name: User_Bob
+      roles:
+      - admin
+      - viewer
+  status: new
+  sub_id: 5483
+  values:
+  - sub_values:
+    - comment: Poor
+      data: 0.9495509921355106
+      sub_value_id: 7094
+    - comment: Excellent
+      data: 4.948157172219554
+      sub_value_id: 1078
+    - comment: Poor
+      data: 4.416369754079434
+      sub_value_id: 4400
+    timestamp: '2024-09-09T15:27:27.555301'
+    value: 12
+    value_id: 99340
+tags:
+- example
+- json
+- debug
+- random

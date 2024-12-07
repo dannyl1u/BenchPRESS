@@ -1,0 +1,86 @@
+{
+    "id": 42,
+    "name": "Item_Delta_42",
+    "attributes": {
+        "color": "blue",
+        "size": "79cm",
+        "weight": "10.45kg",
+        "material": "wood",
+        "dimensions": {
+            "length": "20cm",
+            "width": "37cm",
+            "height": "46cm"
+        }
+    },
+    "created_at": "2024-09-19T15:33:02.803099",
+    "tags": [
+        "json",
+        "debug",
+        "archive",
+        "random"
+    ],
+    "nested_structure": {
+        "sub_id": 7098,
+        "active": false,
+        "status": "completed",
+        "location": {
+            "city": "Berlin",
+            "zipcode": 54565,
+            "coordinates": {
+                "latitude": -11.089271,
+                "longitude": -77.895706
+            }
+        },
+        "metadata": {
+            "creator": {
+                "id": 9421,
+                "name": "User_Bob",
+                "roles": [
+                    "editor",
+                    "viewer"
+                ]
+            },
+            "comments": [
+                {
+                    "user": "Max",
+                    "timestamp": "2024-11-08T15:33:02.803322",
+                    "text": "Comment Amazing!"
+                },
+                {
+                    "user": "Max",
+                    "timestamp": "2024-11-13T15:33:02.803352",
+                    "text": "Comment Pending!"
+                },
+                {
+                    "user": "Liam",
+                    "timestamp": "2024-11-12T15:33:02.803359",
+                    "text": "Comment Amazing!"
+                }
+            ]
+        },
+        "values": [
+            {
+                "value_id": 86727,
+                "value": 8,
+                "timestamp": "2024-06-10T15:33:02.803378",
+                "sub_values": [
+                    {
+                        "sub_value_id": 8329,
+                        "data": 7.461873943795367,
+                        "comment": "Average"
+                    },
+                    {
+                        "sub_value_id": 9920,
+                        "data": 5.053900750598515,
+                        "comment": "Average"
+                    },
+                    {
+                        "sub_value_id": 7559,
+                        "data": 8.235369727506987,
+                        "comment": "Poor"
+                    }
+                ]
+            }
+        ]
+    }
+}

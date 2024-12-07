@@ -1,0 +1,66 @@
+{
+    "id": 16,
+    "name": "Item_Zeta_16",
+    "attributes": {
+        "color": "red",
+        "size": "16cm",
+        "weight": "17.85kg",
+        "material": "metal",
+        "dimensions": {
+            "length": "22cm",
+            "width": "48cm",
+            "height": "39cm"
+        }
+    },
+    "created_at": "2024-10-24T16:13:44.382526",
+    "tags": [
+        "data",
+        "vintage",
+        "debug",
+        "example"
+    ],
+    "nested_structure": {
+        "sub_id": 2217,
+        "active": true,
+        "status": "archived",
+        "location": {
+            "city": "London",
+            "zipcode": 38610,
+            "coordinates": {
+                "latitude": -21.363738,
+                "longitude": 104.915635
+            }
+        },
+        "metadata": {
+            "creator": {
+                "id": 7111,
+                "name": "User_Charlie",
+                "roles": [
+                    "editor",
+                    "moderator"
+                ]
+            },
+            "comments": [
+                {
+                    "user": "Liam",
+                    "timestamp": "2024-11-13T16:13:44.382536",
+                    "text": "Comment Needs improvement!"
+                }
+            ]
+        },
+        "values": [
+            {
+                "value_id": 62184,
+                "value": 91,
+                "timestamp": "2024-10-20T16:13:44.382540",
+                "sub_values": [
+                    {
+                        "sub_value_id": 8978,
+                        "data": 6.9902970362620875,
+                        "comment": "Excellent"
+                    }
+                ]
+            }
+        ]
+    }
+}

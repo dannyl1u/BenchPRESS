@@ -1,0 +1,66 @@
+{
+    "id": 42,
+    "name": "Item_Gamma_42",
+    "attributes": {
+        "color": "green",
+        "size": "97cm",
+        "weight": "13.82kg",
+        "material": "glass",
+        "dimensions": {
+            "length": "34cm",
+            "width": "68cm",
+            "height": "8cm"
+        }
+    },
+    "created_at": "2024-11-20T16:20:54.395239",
+    "tags": [
+        "random",
+        "example",
+        "yaml",
+        "data"
+    ],
+    "nested_structure": {
+        "sub_id": 9977,
+        "active": true,
+        "status": "new",
+        "location": {
+            "city": "Tokyo",
+            "zipcode": 99642,
+            "coordinates": {
+                "latitude": -7.453971,
+                "longitude": -94.008653
+            }
+        },
+        "metadata": {
+            "creator": {
+                "id": 1321,
+                "name": "User_Alice",
+                "roles": [
+                    "admin",
+                    "editor"
+                ]
+            },
+            "comments": [
+                {
+                    "user": "Kate",
+                    "timestamp": "2024-11-17T16:20:54.395271",
+                    "text": "Comment Pending!"
+                }
+            ]
+        },
+        "values": [
+            {
+                "value_id": 29634,
+                "value": 67,
+                "timestamp": "2024-10-31T16:20:54.395282",
+                "sub_values": [
+                    {
+                        "sub_value_id": 2383,
+                        "data": 3.165759518795659,
+                        "comment": "Excellent"
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "id": 47,
+    "name": "Item_Zeta_47",
+    "attributes": {
+        "color": "blue",
+        "size": "54cm",
+        "weight": "3.49kg",
+        "material": "stone",
+        "dimensions": {
+            "length": "53cm",
+            "width": "16cm",
+            "height": "40cm"
+        }
+    },
+    "created_at": "2024-07-29T16:22:16.454659",
+    "tags": [
+        "data",
+        "example",
+        "archive",
+        "test"
+    ],
+    "nested_structure": {
+        "sub_id": 5060,
+        "active": false,
+        "status": "new",
+        "location": {
+            "city": "Berlin",
+            "zipcode": 11127,
+            "coordinates": {
+                "latitude": 34.139296,
+                "longitude": 176.600471
+            }
+        },
+        "metadata": {
+            "creator": {
+                "id": 3255,
+                "name": "User_Diana",
+                "roles": [
+                    "contributor",
+                    "moderator"
+                ]
+            },
+            "comments": [
+                {
+                    "user": "Max",
+                    "timestamp": "2024-12-03T16:22:16.454674",
+                    "text": "Comment Needs improvement!"
+                }
+            ]
+        },
+        "values": [
+            {
+                "value_id": 28005,
+                "value": 79,
+                "timestamp": "2024-09-01T16:22:16.454679",
+                "sub_values": [
+                    {
+                        "sub_value_id": 2650,
+                        "data": 5.655663111855115,
+                        "comment": "Excellent"
+                    }
+                ]
+            }
+        ]
+    }
+}

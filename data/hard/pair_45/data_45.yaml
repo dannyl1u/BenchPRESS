@@ -1,0 +1,46 @@
+attributes:
+  color: green
+  dimensions:
+    height: 16cm
+    length: 38cm
+    width: 43cm
+  material: metal
+  size: 19cm
+  weight: 11.36kg
+created_at: '2024-05-28T16:21:41.625728'
+id: 45
+name: Item_Beta_45
+nested_structure:
+  active: false
+  location:
+    city: New York
+    coordinates:
+      latitude: 8.950076
+      longitude: 133.081248
+    zipcode: 38547
+  metadata:
+    comments:
+    - text: Comment Amazing!
+      timestamp: '2024-11-26T16:21:41.625834'
+      user: Liam
+    creator:
+      id: 9411
+      name: User_Charlie
+      roles:
+      - viewer
+      - contributor
+  status: completed
+  sub_id: 1712
+  values:
+  - sub_values:
+    - comment: Excellent
+      data: 3.5795966897284632
+      sub_value_id: 6830
+    timestamp: '2024-08-08T16:21:41.625848'
+    value: 54
+    value_id: 15147
+tags:
+- example
+- unique
+- random
+- vintage

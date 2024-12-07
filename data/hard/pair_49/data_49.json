@@ -1,0 +1,66 @@
+{
+    "id": 49,
+    "name": "Item_Beta_49",
+    "attributes": {
+        "color": "black",
+        "size": "99cm",
+        "weight": "6.67kg",
+        "material": "metal",
+        "dimensions": {
+            "length": "40cm",
+            "width": "10cm",
+            "height": "28cm"
+        }
+    },
+    "created_at": "2024-07-01T16:22:44.246797",
+    "tags": [
+        "json",
+        "debug",
+        "vintage",
+        "test"
+    ],
+    "nested_structure": {
+        "sub_id": 6978,
+        "active": true,
+        "status": "completed",
+        "location": {
+            "city": "Paris",
+            "zipcode": 41929,
+            "coordinates": {
+                "latitude": -63.71909,
+                "longitude": 122.357331
+            }
+        },
+        "metadata": {
+            "creator": {
+                "id": 4962,
+                "name": "User_Eve",
+                "roles": [
+                    "viewer",
+                    "moderator"
+                ]
+            },
+            "comments": [
+                {
+                    "user": "Sarah",
+                    "timestamp": "2024-11-02T16:22:44.246831",
+                    "text": "Comment Completed!"
+                }
+            ]
+        },
+        "values": [
+            {
+                "value_id": 41144,
+                "value": 8,
+                "timestamp": "2024-08-22T16:22:44.246841",
+                "sub_values": [
+                    {
+                        "sub_value_id": 4739,
+                        "data": 3.0427174351003403,
+                        "comment": "Excellent"
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+attributes:
+  color: blue
+  dimensions:
+    height: 25cm
+    length: 75cm
+    width: 94cm
+  material: glass
+  size: 78cm
+  weight: 17.67kg
+created_at: '2024-11-27T16:14:15.798941'
+id: 18
+name: Item_Gamma_18
+nested_structure:
+  active: false
+  location:
+    city: London
+    coordinates:
+      latitude: -41.720221
+      longitude: 115.880383
+    zipcode: 50527
+  metadata:
+    comments:
+    - text: Comment Interesting!
+      timestamp: '2024-10-17T16:14:15.799079'
+      user: Kate
+    creator:
+      id: 1440
+      name: User_Eve
+      roles:
+      - admin
+      - viewer
+  status: in_progress
+  sub_id: 9374
+  values:
+  - sub_values:
+    - comment: Excellent
+      data: 9.777035557842291
+      sub_value_id: 4660
+    timestamp: '2024-08-18T16:14:15.799109'
+    value: 0
+    value_id: 62100
+tags:
+- archive
+- random
+- example
+- yaml

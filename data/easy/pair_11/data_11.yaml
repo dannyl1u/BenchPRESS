@@ -1,0 +1,52 @@
+attributes:
+  color: black
+  dimensions:
+    height: 32cm
+    length: 48cm
+    width: 13cm
+  material: stone
+  size: 83cm
+  weight: 13.92kg
+created_at: '2024-06-02T15:24:53.967585'
+id: 11
+name: Item_Delta_11
+nested_structure:
+  active: true
+  location:
+    city: Paris
+    coordinates:
+      latitude: -62.188893
+      longitude: 0.268135
+    zipcode: 71655
+  metadata:
+    comments:
+    - text: Comment Pending!
+      timestamp: '2024-11-11T15:24:53.967625'
+      user: Liam
+    - text: Comment Amazing!
+      timestamp: '2024-11-30T15:24:53.967637'
+      user: John
+    creator:
+      id: 8890
+      name: User_Charlie
+      roles:
+      - moderator
+      - editor
+  status: in_progress
+  sub_id: 6729
+  values:
+  - sub_values:
+    - comment: Excellent
+      data: 8.05470842100045
+      sub_value_id: 1613
+    - comment: Good
+      data: 5.055110480706529
+      sub_value_id: 1227
+    timestamp: '2024-06-05T15:24:53.967642'
+    value: 87
+    value_id: 20798
+tags:
+- unique
+- data
+- vintage
+- json

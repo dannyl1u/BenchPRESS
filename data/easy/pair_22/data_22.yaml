@@ -1,0 +1,55 @@
+attributes:
+  color: black
+  dimensions:
+    height: 7cm
+    length: 13cm
+    width: 69cm
+  material: stone
+  size: 35cm
+  weight: 17.89kg
+created_at: '2024-11-05T15:27:43.182414'
+id: 22
+name: Item_Theta_22
+nested_structure:
+  active: true
+  location:
+    city: London
+    coordinates:
+      latitude: 38.392114
+      longitude: -14.846905
+    zipcode: 31384
+  metadata:
+    comments:
+    - text: Comment Completed!
+      timestamp: '2024-10-29T15:27:43.182756'
+      user: Kate
+    - text: Comment Completed!
+      timestamp: '2024-11-15T15:27:43.182776'
+      user: John
+    - text: Comment Needs improvement!
+      timestamp: '2024-10-31T15:27:43.182780'
+      user: Kate
+    creator:
+      id: 9598
+      name: User_Eve
+      roles:
+      - contributor
+      - moderator
+  status: new
+  sub_id: 8828
+  values:
+  - sub_values:
+    - comment: Good
+      data: 1.002659888113236
+      sub_value_id: 1752
+    - comment: Good
+      data: 5.098067233479197
+      sub_value_id: 9580
+    timestamp: '2024-10-07T15:27:43.182792'
+    value: 92
+    value_id: 22525
+tags:
+- unique
+- random
+- vintage
+- debug

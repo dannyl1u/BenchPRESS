@@ -1,0 +1,55 @@
+attributes:
+  color: green
+  dimensions:
+    height: 16cm
+    length: 70cm
+    width: 70cm
+  material: stone
+  size: 49cm
+  weight: 11.00kg
+created_at: '2024-08-21T15:33:20.363751'
+id: 43
+name: Item_Gamma_43
+nested_structure:
+  active: false
+  location:
+    city: Tokyo
+    coordinates:
+      latitude: 18.008353
+      longitude: -150.500586
+    zipcode: 69076
+  metadata:
+    comments:
+    - text: Comment Completed!
+      timestamp: '2024-11-23T15:33:20.363889'
+      user: Liam
+    - text: Comment Completed!
+      timestamp: '2024-11-28T15:33:20.363906'
+      user: Liam
+    creator:
+      id: 1833
+      name: User_Alice
+      roles:
+      - viewer
+      - moderator
+  status: in_progress
+  sub_id: 1188
+  values:
+  - sub_values:
+    - comment: Average
+      data: 8.072776968143879
+      sub_value_id: 5943
+    - comment: Excellent
+      data: 7.862042333227785
+      sub_value_id: 9451
+    - comment: Average
+      data: 6.5987322978665945
+      sub_value_id: 6051
+    timestamp: '2024-06-01T15:33:20.363915'
+    value: 63
+    value_id: 75736
+tags:
+- json
+- random
+- yaml
+- archive

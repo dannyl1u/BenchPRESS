@@ -1,0 +1,71 @@
+{
+    "id": 4,
+    "name": "Item_Gamma_4",
+    "attributes": {
+        "color": "orange",
+        "size": "57cm",
+        "weight": "13.03kg",
+        "material": "plastic",
+        "dimensions": {
+            "length": "72cm",
+            "width": "90cm",
+            "height": "39cm"
+        }
+    },
+    "created_at": "2024-09-23T15:23:29.933719",
+    "tags": [
+        "data",
+        "example",
+        "vintage",
+        "json"
+    ],
+    "nested_structure": {
+        "sub_id": 3225,
+        "active": false,
+        "status": "archived",
+        "location": {
+            "city": "London",
+            "zipcode": 66076,
+            "coordinates": {
+                "latitude": 80.534397,
+                "longitude": -46.015819
+            }
+        },
+        "metadata": {
+            "creator": {
+                "id": 9729,
+                "name": "User_Charlie",
+                "roles": [
+                    "contributor",
+                    "viewer"
+                ]
+            },
+            "comments": [
+                {
+                    "user": "Max",
+                    "timestamp": "2024-10-26T15:23:29.933757",
+                    "text": "Comment Amazing!"
+                }
+            ]
+        },
+        "values": [
+            {
+                "value_id": 99623,
+                "value": 26,
+                "timestamp": "2024-10-16T15:23:29.933764",
+                "sub_values": [
+                    {
+                        "sub_value_id": 6598,
+                        "data": 4.1901097572677495,
+                        "comment": "Average"
+                    },
+                    {
+                        "sub_value_id": 4949,
+                        "data": 9.735615600375587,
+                        "comment": "Good"
+                    }
+                ]
+            }
+        ]
+    }
+}

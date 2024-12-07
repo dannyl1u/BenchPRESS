@@ -1,0 +1,76 @@
+{
+    "id": 29,
+    "name": "Item_Delta_29",
+    "attributes": {
+        "color": "black",
+        "size": "76cm",
+        "weight": "16.33kg",
+        "material": "plastic",
+        "dimensions": {
+            "length": "57cm",
+            "width": "58cm",
+            "height": "30cm"
+        }
+    },
+    "created_at": "2024-08-23T15:29:35.077636",
+    "tags": [
+        "data",
+        "debug",
+        "unique",
+        "json"
+    ],
+    "nested_structure": {
+        "sub_id": 2833,
+        "active": true,
+        "status": "archived",
+        "location": {
+            "city": "Vancouver",
+            "zipcode": 38908,
+            "coordinates": {
+                "latitude": -73.015912,
+                "longitude": 83.370588
+            }
+        },
+        "metadata": {
+            "creator": {
+                "id": 6801,
+                "name": "User_Frank",
+                "roles": [
+                    "viewer",
+                    "moderator"
+                ]
+            },
+            "comments": [
+                {
+                    "user": "Liam",
+                    "timestamp": "2024-11-14T15:29:35.077723",
+                    "text": "Comment Needs improvement!"
+                }
+            ]
+        },
+        "values": [
+            {
+                "value_id": 44012,
+                "value": 58,
+                "timestamp": "2024-09-16T15:29:35.077742",
+                "sub_values": [
+                    {
+                        "sub_value_id": 6675,
+                        "data": 2.5651085871666677,
+                        "comment": "Good"
+                    },
+                    {
+                        "sub_value_id": 3344,
+                        "data": 7.430431828043639,
+                        "comment": "Good"
+                    },
+                    {
+                        "sub_value_id": 6017,
+                        "data": 8.929282695536953,
+                        "comment": "Poor"
+                    }
+                ]
+            }
+        ]
+    }
+}

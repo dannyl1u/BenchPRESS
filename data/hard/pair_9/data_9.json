@@ -1,0 +1,66 @@
+{
+    "id": 9,
+    "name": "Item_Theta_9",
+    "attributes": {
+        "color": "black",
+        "size": "10cm",
+        "weight": "7.05kg",
+        "material": "wood",
+        "dimensions": {
+            "length": "89cm",
+            "width": "43cm",
+            "height": "50cm"
+        }
+    },
+    "created_at": "2024-08-07T16:11:49.662756",
+    "tags": [
+        "archive",
+        "example",
+        "test",
+        "random"
+    ],
+    "nested_structure": {
+        "sub_id": 1679,
+        "active": true,
+        "status": "new",
+        "location": {
+            "city": "San Francisco",
+            "zipcode": 88348,
+            "coordinates": {
+                "latitude": -79.411768,
+                "longitude": -79.214757
+            }
+        },
+        "metadata": {
+            "creator": {
+                "id": 3172,
+                "name": "User_Bob",
+                "roles": [
+                    "admin",
+                    "viewer"
+                ]
+            },
+            "comments": [
+                {
+                    "user": "John",
+                    "timestamp": "2024-11-04T16:11:49.662768",
+                    "text": "Comment Needs improvement!"
+                }
+            ]
+        },
+        "values": [
+            {
+                "value_id": 28439,
+                "value": 21,
+                "timestamp": "2024-10-22T16:11:49.662771",
+                "sub_values": [
+                    {
+                        "sub_value_id": 4128,
+                        "data": 4.110819401215558,
+                        "comment": "Good"
+                    }
+                ]
+            }
+        ]
+    }
+}

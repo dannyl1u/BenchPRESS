@@ -1,0 +1,81 @@
+{
+    "id": 22,
+    "name": "Item_Theta_22",
+    "attributes": {
+        "color": "black",
+        "size": "35cm",
+        "weight": "17.89kg",
+        "material": "stone",
+        "dimensions": {
+            "length": "13cm",
+            "width": "69cm",
+            "height": "7cm"
+        }
+    },
+    "created_at": "2024-11-05T15:27:43.182414",
+    "tags": [
+        "unique",
+        "random",
+        "vintage",
+        "debug"
+    ],
+    "nested_structure": {
+        "sub_id": 8828,
+        "active": true,
+        "status": "new",
+        "location": {
+            "city": "London",
+            "zipcode": 31384,
+            "coordinates": {
+                "latitude": 38.392114,
+                "longitude": -14.846905
+            }
+        },
+        "metadata": {
+            "creator": {
+                "id": 9598,
+                "name": "User_Eve",
+                "roles": [
+                    "contributor",
+                    "moderator"
+                ]
+            },
+            "comments": [
+                {
+                    "user": "Kate",
+                    "timestamp": "2024-10-29T15:27:43.182756",
+                    "text": "Comment Completed!"
+                },
+                {
+                    "user": "John",
+                    "timestamp": "2024-11-15T15:27:43.182776",
+                    "text": "Comment Completed!"
+                },
+                {
+                    "user": "Kate",
+                    "timestamp": "2024-10-31T15:27:43.182780",
+                    "text": "Comment Needs improvement!"
+                }
+            ]
+        },
+        "values": [
+            {
+                "value_id": 22525,
+                "value": 92,
+                "timestamp": "2024-10-07T15:27:43.182792",
+                "sub_values": [
+                    {
+                        "sub_value_id": 1752,
+                        "data": 1.002659888113236,
+                        "comment": "Good"
+                    },
+                    {
+                        "sub_value_id": 9580,
+                        "data": 5.098067233479197,
+                        "comment": "Good"
+                    }
+                ]
+            }
+        ]
+    }
+}

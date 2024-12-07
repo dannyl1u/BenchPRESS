@@ -1,0 +1,86 @@
+{
+    "id": 10,
+    "name": "Item_Gamma_10",
+    "attributes": {
+        "color": "black",
+        "size": "52cm",
+        "weight": "3.14kg",
+        "material": "glass",
+        "dimensions": {
+            "length": "99cm",
+            "width": "65cm",
+            "height": "48cm"
+        }
+    },
+    "created_at": "2024-08-20T15:24:36.325874",
+    "tags": [
+        "yaml",
+        "data",
+        "debug",
+        "archive"
+    ],
+    "nested_structure": {
+        "sub_id": 3122,
+        "active": true,
+        "status": "completed",
+        "location": {
+            "city": "Vancouver",
+            "zipcode": 77031,
+            "coordinates": {
+                "latitude": 26.728661,
+                "longitude": -109.960923
+            }
+        },
+        "metadata": {
+            "creator": {
+                "id": 8958,
+                "name": "User_Frank",
+                "roles": [
+                    "contributor",
+                    "editor"
+                ]
+            },
+            "comments": [
+                {
+                    "user": "Liam",
+                    "timestamp": "2024-12-02T15:24:36.326110",
+                    "text": "Comment Interesting!"
+                },
+                {
+                    "user": "Kate",
+                    "timestamp": "2024-11-07T15:24:36.326155",
+                    "text": "Comment Interesting!"
+                },
+                {
+                    "user": "John",
+                    "timestamp": "2024-11-19T15:24:36.326165",
+                    "text": "Comment Pending!"
+                }
+            ]
+        },
+        "values": [
+            {
+                "value_id": 29005,
+                "value": 29,
+                "timestamp": "2024-05-30T15:24:36.326191",
+                "sub_values": [
+                    {
+                        "sub_value_id": 8109,
+                        "data": 0.829262006427693,
+                        "comment": "Average"
+                    },
+                    {
+                        "sub_value_id": 7076,
+                        "data": 5.017777622491974,
+                        "comment": "Good"
+                    },
+                    {
+                        "sub_value_id": 1817,
+                        "data": 7.077339056797043,
+                        "comment": "Average"
+                    }
+                ]
+            }
+        ]
+    }
+}

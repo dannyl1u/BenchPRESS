@@ -1,0 +1,66 @@
+{
+    "id": 18,
+    "name": "Item_Gamma_18",
+    "attributes": {
+        "color": "black",
+        "size": "9cm",
+        "weight": "11.47kg",
+        "material": "glass",
+        "dimensions": {
+            "length": "91cm",
+            "width": "55cm",
+            "height": "23cm"
+        }
+    },
+    "created_at": "2024-10-28T16:14:15.799217",
+    "tags": [
+        "test",
+        "unique",
+        "json",
+        "vintage"
+    ],
+    "nested_structure": {
+        "sub_id": 4205,
+        "active": false,
+        "status": "archived",
+        "location": {
+            "city": "London",
+            "zipcode": 69498,
+            "coordinates": {
+                "latitude": -11.306248,
+                "longitude": 117.853007
+            }
+        },
+        "metadata": {
+            "creator": {
+                "id": 1536,
+                "name": "User_Alice",
+                "roles": [
+                    "editor",
+                    "contributor"
+                ]
+            },
+            "comments": [
+                {
+                    "user": "Kate",
+                    "timestamp": "2024-11-30T16:14:15.799241",
+                    "text": "Comment Pending!"
+                }
+            ]
+        },
+        "values": [
+            {
+                "value_id": 13309,
+                "value": 57,
+                "timestamp": "2024-10-18T16:14:15.799249",
+                "sub_values": [
+                    {
+                        "sub_value_id": 8106,
+                        "data": 8.066931448333776,
+                        "comment": "Excellent"
+                    }
+                ]
+            }
+        ]
+    }
+}

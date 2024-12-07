@@ -1,0 +1,76 @@
+{
+    "id": 50,
+    "name": "Item_Theta_50",
+    "attributes": {
+        "color": "orange",
+        "size": "37cm",
+        "weight": "18.77kg",
+        "material": "stone",
+        "dimensions": {
+            "length": "89cm",
+            "width": "28cm",
+            "height": "10cm"
+        }
+    },
+    "created_at": "2024-09-21T15:35:07.727675",
+    "tags": [
+        "json",
+        "vintage",
+        "data",
+        "debug"
+    ],
+    "nested_structure": {
+        "sub_id": 3039,
+        "active": true,
+        "status": "completed",
+        "location": {
+            "city": "Seattle",
+            "zipcode": 45494,
+            "coordinates": {
+                "latitude": -83.440911,
+                "longitude": 29.302935
+            }
+        },
+        "metadata": {
+            "creator": {
+                "id": 1137,
+                "name": "User_Eve",
+                "roles": [
+                    "contributor",
+                    "editor"
+                ]
+            },
+            "comments": [
+                {
+                    "user": "Max",
+                    "timestamp": "2024-11-26T15:35:07.727807",
+                    "text": "Comment Pending!"
+                },
+                {
+                    "user": "Kate",
+                    "timestamp": "2024-10-21T15:35:07.727839",
+                    "text": "Comment Needs improvement!"
+                },
+                {
+                    "user": "Sarah",
+                    "timestamp": "2024-10-28T15:35:07.727845",
+                    "text": "Comment Pending!"
+                }
+            ]
+        },
+        "values": [
+            {
+                "value_id": 50473,
+                "value": 12,
+                "timestamp": "2024-11-23T15:35:07.727860",
+                "sub_values": [
+                    {
+                        "sub_value_id": 3214,
+                        "data": 2.476922054334203,
+                        "comment": "Excellent"
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "id": 30,
+    "name": "Item_Zeta_30",
+    "attributes": {
+        "color": "orange",
+        "size": "28cm",
+        "weight": "10.13kg",
+        "material": "wood",
+        "dimensions": {
+            "length": "66cm",
+            "width": "20cm",
+            "height": "40cm"
+        }
+    },
+    "created_at": "2024-12-03T16:17:36.974350",
+    "tags": [
+        "vintage",
+        "data",
+        "test",
+        "unique"
+    ],
+    "nested_structure": {
+        "sub_id": 6574,
+        "active": true,
+        "status": "in_progress",
+        "location": {
+            "city": "New York",
+            "zipcode": 59370,
+            "coordinates": {
+                "latitude": -69.400504,
+                "longitude": -57.679768
+            }
+        },
+        "metadata": {
+            "creator": {
+                "id": 9302,
+                "name": "User_Bob",
+                "roles": [
+                    "admin",
+                    "moderator"
+                ]
+            },
+            "comments": [
+                {
+                    "user": "Liam",
+                    "timestamp": "2024-10-29T16:17:36.974367",
+                    "text": "Comment Completed!"
+                }
+            ]
+        },
+        "values": [
+            {
+                "value_id": 67946,
+                "value": 71,
+                "timestamp": "2024-12-05T16:17:36.974372",
+                "sub_values": [
+                    {
+                        "sub_value_id": 9586,
+                        "data": 9.91665544350381,
+                        "comment": "Good"
+                    }
+                ]
+            }
+        ]
+    }
+}

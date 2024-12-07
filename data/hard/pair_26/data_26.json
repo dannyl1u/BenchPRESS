@@ -1,0 +1,66 @@
+{
+    "id": 26,
+    "name": "Item_Alpha_26",
+    "attributes": {
+        "color": "orange",
+        "size": "17cm",
+        "weight": "1.98kg",
+        "material": "stone",
+        "dimensions": {
+            "length": "60cm",
+            "width": "13cm",
+            "height": "9cm"
+        }
+    },
+    "created_at": "2024-10-05T16:16:27.330499",
+    "tags": [
+        "vintage",
+        "unique",
+        "debug",
+        "yaml"
+    ],
+    "nested_structure": {
+        "sub_id": 4388,
+        "active": false,
+        "status": "archived",
+        "location": {
+            "city": "Tokyo",
+            "zipcode": 19864,
+            "coordinates": {
+                "latitude": -63.628882,
+                "longitude": 2.834713
+            }
+        },
+        "metadata": {
+            "creator": {
+                "id": 7708,
+                "name": "User_Bob",
+                "roles": [
+                    "contributor",
+                    "viewer"
+                ]
+            },
+            "comments": [
+                {
+                    "user": "Sarah",
+                    "timestamp": "2024-10-24T16:16:27.330526",
+                    "text": "Comment Needs improvement!"
+                }
+            ]
+        },
+        "values": [
+            {
+                "value_id": 75301,
+                "value": 21,
+                "timestamp": "2024-07-26T16:16:27.330535",
+                "sub_values": [
+                    {
+                        "sub_value_id": 8589,
+                        "data": 5.04555337601252,
+                        "comment": "Excellent"
+                    }
+                ]
+            }
+        ]
+    }
+}

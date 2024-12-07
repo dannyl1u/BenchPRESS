@@ -1,0 +1,76 @@
+{
+    "id": 21,
+    "name": "Item_Epsilon_21",
+    "attributes": {
+        "color": "orange",
+        "size": "88cm",
+        "weight": "10.83kg",
+        "material": "fabric",
+        "dimensions": {
+            "length": "16cm",
+            "width": "60cm",
+            "height": "30cm"
+        }
+    },
+    "created_at": "2024-08-19T15:27:27.555115",
+    "tags": [
+        "example",
+        "json",
+        "debug",
+        "random"
+    ],
+    "nested_structure": {
+        "sub_id": 5483,
+        "active": true,
+        "status": "new",
+        "location": {
+            "city": "Vancouver",
+            "zipcode": 95193,
+            "coordinates": {
+                "latitude": -85.679286,
+                "longitude": 55.878491
+            }
+        },
+        "metadata": {
+            "creator": {
+                "id": 2081,
+                "name": "User_Bob",
+                "roles": [
+                    "admin",
+                    "viewer"
+                ]
+            },
+            "comments": [
+                {
+                    "user": "Max",
+                    "timestamp": "2024-11-24T15:27:27.555263",
+                    "text": "Comment Amazing!"
+                }
+            ]
+        },
+        "values": [
+            {
+                "value_id": 99340,
+                "value": 12,
+                "timestamp": "2024-09-09T15:27:27.555301",
+                "sub_values": [
+                    {
+                        "sub_value_id": 7094,
+                        "data": 0.9495509921355106,
+                        "comment": "Poor"
+                    },
+                    {
+                        "sub_value_id": 1078,
+                        "data": 4.948157172219554,
+                        "comment": "Excellent"
+                    },
+                    {
+                        "sub_value_id": 4400,
+                        "data": 4.416369754079434,
+                        "comment": "Poor"
+                    }
+                ]
+            }
+        ]
+    }
+}

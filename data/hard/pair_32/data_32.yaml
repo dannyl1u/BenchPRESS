@@ -1,0 +1,46 @@
+attributes:
+  color: purple
+  dimensions:
+    height: 13cm
+    length: 79cm
+    width: 83cm
+  material: metal
+  size: 96cm
+  weight: 10.60kg
+created_at: '2024-12-02T16:18:07.884524'
+id: 32
+name: Item_Zeta_32
+nested_structure:
+  active: true
+  location:
+    city: New York
+    coordinates:
+      latitude: -75.146901
+      longitude: 89.422866
+    zipcode: 49486
+  metadata:
+    comments:
+    - text: Comment Interesting!
+      timestamp: '2024-11-04T16:18:07.884560'
+      user: Kate
+    creator:
+      id: 5201
+      name: User_Charlie
+      roles:
+      - moderator
+      - admin
+  status: archived
+  sub_id: 1050
+  values:
+  - sub_values:
+    - comment: Average
+      data: 9.815475958555298
+      sub_value_id: 8987
+    timestamp: '2024-10-20T16:18:07.884566'
+    value: 17
+    value_id: 64647
+tags:
+- yaml
+- test
+- archive
+- vintage

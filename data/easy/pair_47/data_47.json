@@ -1,0 +1,66 @@
+{
+    "id": 47,
+    "name": "Item_Beta_47",
+    "attributes": {
+        "color": "blue",
+        "size": "41cm",
+        "weight": "4.21kg",
+        "material": "stone",
+        "dimensions": {
+            "length": "70cm",
+            "width": "26cm",
+            "height": "8cm"
+        }
+    },
+    "created_at": "2024-08-06T15:34:26.363876",
+    "tags": [
+        "yaml",
+        "unique",
+        "data",
+        "vintage"
+    ],
+    "nested_structure": {
+        "sub_id": 7965,
+        "active": true,
+        "status": "in_progress",
+        "location": {
+            "city": "Paris",
+            "zipcode": 16938,
+            "coordinates": {
+                "latitude": -9.737691,
+                "longitude": 122.695906
+            }
+        },
+        "metadata": {
+            "creator": {
+                "id": 3704,
+                "name": "User_Alice",
+                "roles": [
+                    "viewer",
+                    "moderator"
+                ]
+            },
+            "comments": [
+                {
+                    "user": "Sarah",
+                    "timestamp": "2024-11-03T15:34:26.364049",
+                    "text": "Comment Amazing!"
+                }
+            ]
+        },
+        "values": [
+            {
+                "value_id": 30529,
+                "value": 40,
+                "timestamp": "2024-07-24T15:34:26.364090",
+                "sub_values": [
+                    {
+                        "sub_value_id": 2464,
+                        "data": 3.630144940518241,
+                        "comment": "Excellent"
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,66 @@
+{
+    "id": 37,
+    "name": "Item_Epsilon_37",
+    "attributes": {
+        "color": "black",
+        "size": "86cm",
+        "weight": "9.21kg",
+        "material": "stone",
+        "dimensions": {
+            "length": "94cm",
+            "width": "81cm",
+            "height": "49cm"
+        }
+    },
+    "created_at": "2024-10-14T16:19:31.779176",
+    "tags": [
+        "archive",
+        "random",
+        "vintage",
+        "yaml"
+    ],
+    "nested_structure": {
+        "sub_id": 3751,
+        "active": false,
+        "status": "completed",
+        "location": {
+            "city": "Berlin",
+            "zipcode": 20611,
+            "coordinates": {
+                "latitude": 18.515052,
+                "longitude": -13.983326
+            }
+        },
+        "metadata": {
+            "creator": {
+                "id": 4699,
+                "name": "User_Diana",
+                "roles": [
+                    "editor",
+                    "moderator"
+                ]
+            },
+            "comments": [
+                {
+                    "user": "Liam",
+                    "timestamp": "2024-10-26T16:19:31.779196",
+                    "text": "Comment Amazing!"
+                }
+            ]
+        },
+        "values": [
+            {
+                "value_id": 90165,
+                "value": 42,
+                "timestamp": "2024-08-11T16:19:31.779202",
+                "sub_values": [
+                    {
+                        "sub_value_id": 2134,
+                        "data": 9.240352620908865,
+                        "comment": "Good"
+                    }
+                ]
+            }
+        ]
+    }
+}

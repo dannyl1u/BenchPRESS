@@ -1,0 +1,66 @@
+{
+    "id": 27,
+    "name": "Item_Gamma_27",
+    "attributes": {
+        "color": "orange",
+        "size": "6cm",
+        "weight": "6.21kg",
+        "material": "wood",
+        "dimensions": {
+            "length": "10cm",
+            "width": "91cm",
+            "height": "37cm"
+        }
+    },
+    "created_at": "2024-06-30T16:16:44.919159",
+    "tags": [
+        "archive",
+        "unique",
+        "json",
+        "yaml"
+    ],
+    "nested_structure": {
+        "sub_id": 5876,
+        "active": false,
+        "status": "in_progress",
+        "location": {
+            "city": "Paris",
+            "zipcode": 18834,
+            "coordinates": {
+                "latitude": -18.887527,
+                "longitude": -117.537071
+            }
+        },
+        "metadata": {
+            "creator": {
+                "id": 9693,
+                "name": "User_Bob",
+                "roles": [
+                    "contributor",
+                    "admin"
+                ]
+            },
+            "comments": [
+                {
+                    "user": "Max",
+                    "timestamp": "2024-10-17T16:16:44.919186",
+                    "text": "Comment Needs improvement!"
+                }
+            ]
+        },
+        "values": [
+            {
+                "value_id": 59120,
+                "value": 88,
+                "timestamp": "2024-11-16T16:16:44.919195",
+                "sub_values": [
+                    {
+                        "sub_value_id": 7325,
+                        "data": 5.810378124600068,
+                        "comment": "Good"
+                    }
+                ]
+            }
+        ]
+    }
+}

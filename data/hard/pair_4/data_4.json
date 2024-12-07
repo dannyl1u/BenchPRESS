@@ -1,0 +1,66 @@
+{
+    "id": 4,
+    "name": "Item_Zeta_4",
+    "attributes": {
+        "color": "white",
+        "size": "23cm",
+        "weight": "12.67kg",
+        "material": "fabric",
+        "dimensions": {
+            "length": "33cm",
+            "width": "17cm",
+            "height": "37cm"
+        }
+    },
+    "created_at": "2024-10-06T16:10:53.564616",
+    "tags": [
+        "debug",
+        "vintage",
+        "yaml",
+        "json"
+    ],
+    "nested_structure": {
+        "sub_id": 6977,
+        "active": false,
+        "status": "completed",
+        "location": {
+            "city": "London",
+            "zipcode": 18723,
+            "coordinates": {
+                "latitude": -22.742748,
+                "longitude": -126.053754
+            }
+        },
+        "metadata": {
+            "creator": {
+                "id": 6884,
+                "name": "User_Diana",
+                "roles": [
+                    "admin",
+                    "viewer"
+                ]
+            },
+            "comments": [
+                {
+                    "user": "Liam",
+                    "timestamp": "2024-10-19T16:10:53.564633",
+                    "text": "Comment Pending!"
+                }
+            ]
+        },
+        "values": [
+            {
+                "value_id": 20402,
+                "value": 6,
+                "timestamp": "2024-07-22T16:10:53.564639",
+                "sub_values": [
+                    {
+                        "sub_value_id": 5134,
+                        "data": 7.462588648829186,
+                        "comment": "Good"
+                    }
+                ]
+            }
+        ]
+    }
+}

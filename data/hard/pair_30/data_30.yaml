@@ -1,0 +1,46 @@
+attributes:
+  color: yellow
+  dimensions:
+    height: 24cm
+    length: 11cm
+    width: 100cm
+  material: wood
+  size: 83cm
+  weight: 19.89kg
+created_at: '2024-10-21T16:17:36.974259'
+id: 30
+name: Item_Theta_30
+nested_structure:
+  active: false
+  location:
+    city: Berlin
+    coordinates:
+      latitude: -29.051586
+      longitude: 177.273869
+    zipcode: 59269
+  metadata:
+    comments:
+    - text: Comment Interesting!
+      timestamp: '2024-11-08T16:17:36.974308'
+      user: John
+    creator:
+      id: 4895
+      name: User_Bob
+      roles:
+      - editor
+      - admin
+  status: in_progress
+  sub_id: 5540
+  values:
+  - sub_values:
+    - comment: Poor
+      data: 2.8105742156308167
+      sub_value_id: 8054
+    timestamp: '2024-08-31T16:17:36.974315'
+    value: 85
+    value_id: 22102
+tags:
+- test
+- example
+- random
+- json

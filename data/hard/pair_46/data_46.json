@@ -1,0 +1,66 @@
+{
+    "id": 46,
+    "name": "Item_Zeta_46",
+    "attributes": {
+        "color": "yellow",
+        "size": "29cm",
+        "weight": "2.16kg",
+        "material": "plastic",
+        "dimensions": {
+            "length": "13cm",
+            "width": "95cm",
+            "height": "47cm"
+        }
+    },
+    "created_at": "2024-06-28T16:22:00.931666",
+    "tags": [
+        "unique",
+        "data",
+        "vintage",
+        "example"
+    ],
+    "nested_structure": {
+        "sub_id": 6658,
+        "active": false,
+        "status": "archived",
+        "location": {
+            "city": "San Francisco",
+            "zipcode": 79157,
+            "coordinates": {
+                "latitude": -43.274339,
+                "longitude": -62.06422
+            }
+        },
+        "metadata": {
+            "creator": {
+                "id": 4963,
+                "name": "User_Charlie",
+                "roles": [
+                    "admin",
+                    "contributor"
+                ]
+            },
+            "comments": [
+                {
+                    "user": "John",
+                    "timestamp": "2024-12-04T16:22:00.931686",
+                    "text": "Comment Completed!"
+                }
+            ]
+        },
+        "values": [
+            {
+                "value_id": 96766,
+                "value": 82,
+                "timestamp": "2024-08-20T16:22:00.931692",
+                "sub_values": [
+                    {
+                        "sub_value_id": 2322,
+                        "data": 2.3559614820907697,
+                        "comment": "Good"
+                    }
+                ]
+            }
+        ]
+    }
+}

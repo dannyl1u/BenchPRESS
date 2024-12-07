@@ -1,0 +1,52 @@
+attributes:
+  color: yellow
+  dimensions:
+    height: 42cm
+    length: 71cm
+    width: 52cm
+  material: glass
+  size: 9cm
+  weight: 12.51kg
+created_at: '2024-09-03T15:28:33.709166'
+id: 25
+name: Item_Delta_25
+nested_structure:
+  active: false
+  location:
+    city: Vancouver
+    coordinates:
+      latitude: -6.189753
+      longitude: 104.021791
+    zipcode: 91316
+  metadata:
+    comments:
+    - text: Comment Needs improvement!
+      timestamp: '2024-11-13T15:28:33.709288'
+      user: John
+    creator:
+      id: 3699
+      name: User_Bob
+      roles:
+      - contributor
+      - moderator
+  status: archived
+  sub_id: 5480
+  values:
+  - sub_values:
+    - comment: Average
+      data: 2.4429985159492653
+      sub_value_id: 9273
+    - comment: Excellent
+      data: 7.702484999570367
+      sub_value_id: 5316
+    - comment: Poor
+      data: 8.071548411511195
+      sub_value_id: 6509
+    timestamp: '2024-06-25T15:28:33.709307'
+    value: 47
+    value_id: 74421
+tags:
+- random
+- json
+- test
+- yaml

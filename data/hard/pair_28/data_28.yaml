@@ -1,0 +1,46 @@
+attributes:
+  color: purple
+  dimensions:
+    height: 38cm
+    length: 56cm
+    width: 61cm
+  material: metal
+  size: 23cm
+  weight: 15.43kg
+created_at: '2024-10-24T16:17:01.531765'
+id: 28
+name: Item_Alpha_28
+nested_structure:
+  active: true
+  location:
+    city: Berlin
+    coordinates:
+      latitude: -27.451181
+      longitude: -178.109816
+    zipcode: 91175
+  metadata:
+    comments:
+    - text: Comment Completed!
+      timestamp: '2024-11-27T16:17:01.531836'
+      user: Sarah
+    creator:
+      id: 7451
+      name: User_Alice
+      roles:
+      - admin
+      - moderator
+  status: completed
+  sub_id: 9591
+  values:
+  - sub_values:
+    - comment: Good
+      data: 6.755313050688317
+      sub_value_id: 8550
+    timestamp: '2024-11-27T16:17:01.531847'
+    value: 8
+    value_id: 93195
+tags:
+- random
+- archive
+- debug
+- vintage

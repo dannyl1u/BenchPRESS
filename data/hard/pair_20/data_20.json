@@ -1,0 +1,66 @@
+{
+    "id": 20,
+    "name": "Item_Beta_20",
+    "attributes": {
+        "color": "orange",
+        "size": "52cm",
+        "weight": "19.13kg",
+        "material": "wood",
+        "dimensions": {
+            "length": "57cm",
+            "width": "76cm",
+            "height": "8cm"
+        }
+    },
+    "created_at": "2024-11-04T16:14:49.641819",
+    "tags": [
+        "json",
+        "unique",
+        "yaml",
+        "test"
+    ],
+    "nested_structure": {
+        "sub_id": 7400,
+        "active": false,
+        "status": "completed",
+        "location": {
+            "city": "Berlin",
+            "zipcode": 82324,
+            "coordinates": {
+                "latitude": -67.668793,
+                "longitude": 169.185013
+            }
+        },
+        "metadata": {
+            "creator": {
+                "id": 3911,
+                "name": "User_Diana",
+                "roles": [
+                    "admin",
+                    "contributor"
+                ]
+            },
+            "comments": [
+                {
+                    "user": "Max",
+                    "timestamp": "2024-11-11T16:14:49.641852",
+                    "text": "Comment Needs improvement!"
+                }
+            ]
+        },
+        "values": [
+            {
+                "value_id": 64077,
+                "value": 15,
+                "timestamp": "2024-08-19T16:14:49.641888",
+                "sub_values": [
+                    {
+                        "sub_value_id": 7499,
+                        "data": 5.397461314079833,
+                        "comment": "Poor"
+                    }
+                ]
+            }
+        ]
+    }
+}

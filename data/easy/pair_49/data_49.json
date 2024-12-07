@@ -1,0 +1,66 @@
+{
+    "id": 49,
+    "name": "Item_Zeta_49",
+    "attributes": {
+        "color": "yellow",
+        "size": "29cm",
+        "weight": "0.51kg",
+        "material": "wood",
+        "dimensions": {
+            "length": "77cm",
+            "width": "44cm",
+            "height": "12cm"
+        }
+    },
+    "created_at": "2024-09-03T15:34:55.263282",
+    "tags": [
+        "json",
+        "random",
+        "unique",
+        "example"
+    ],
+    "nested_structure": {
+        "sub_id": 2262,
+        "active": true,
+        "status": "new",
+        "location": {
+            "city": "Paris",
+            "zipcode": 20779,
+            "coordinates": {
+                "latitude": 75.888279,
+                "longitude": 132.197252
+            }
+        },
+        "metadata": {
+            "creator": {
+                "id": 5641,
+                "name": "User_Diana",
+                "roles": [
+                    "editor",
+                    "viewer"
+                ]
+            },
+            "comments": [
+                {
+                    "user": "Max",
+                    "timestamp": "2024-11-04T15:34:55.263374",
+                    "text": "Comment Completed!"
+                }
+            ]
+        },
+        "values": [
+            {
+                "value_id": 79224,
+                "value": 50,
+                "timestamp": "2024-09-02T15:34:55.263396",
+                "sub_values": [
+                    {
+                        "sub_value_id": 3662,
+                        "data": 2.336268021900165,
+                        "comment": "Average"
+                    }
+                ]
+            }
+        ]
+    }
+}

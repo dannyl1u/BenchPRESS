@@ -1,0 +1,52 @@
+attributes:
+  color: white
+  dimensions:
+    height: 27cm
+    length: 52cm
+    width: 71cm
+  material: glass
+  size: 39cm
+  weight: 1.90kg
+created_at: '2024-06-14T15:34:39.599022'
+id: 48
+name: Item_Theta_48
+nested_structure:
+  active: false
+  location:
+    city: Tokyo
+    coordinates:
+      latitude: 73.125407
+      longitude: 89.737229
+    zipcode: 33436
+  metadata:
+    comments:
+    - text: Comment Interesting!
+      timestamp: '2024-12-04T15:34:39.599123'
+      user: John
+    - text: Comment Needs improvement!
+      timestamp: '2024-12-04T15:34:39.599139'
+      user: Liam
+    - text: Comment Amazing!
+      timestamp: '2024-11-20T15:34:39.599143'
+      user: Sarah
+    creator:
+      id: 2795
+      name: User_Charlie
+      roles:
+      - moderator
+      - admin
+  status: in_progress
+  sub_id: 9481
+  values:
+  - sub_values:
+    - comment: Poor
+      data: 0.5101656995741004
+      sub_value_id: 8132
+    timestamp: '2024-11-19T15:34:39.599156'
+    value: 88
+    value_id: 98050
+tags:
+- unique
+- archive
+- debug
+- random

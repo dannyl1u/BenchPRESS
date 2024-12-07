@@ -1,0 +1,66 @@
+{
+    "id": 44,
+    "name": "Item_Zeta_44",
+    "attributes": {
+        "color": "green",
+        "size": "64cm",
+        "weight": "6.64kg",
+        "material": "stone",
+        "dimensions": {
+            "length": "95cm",
+            "width": "65cm",
+            "height": "7cm"
+        }
+    },
+    "created_at": "2024-11-21T16:21:25.006057",
+    "tags": [
+        "example",
+        "random",
+        "debug",
+        "test"
+    ],
+    "nested_structure": {
+        "sub_id": 2620,
+        "active": true,
+        "status": "in_progress",
+        "location": {
+            "city": "New York",
+            "zipcode": 44037,
+            "coordinates": {
+                "latitude": -57.738949,
+                "longitude": -72.51813
+            }
+        },
+        "metadata": {
+            "creator": {
+                "id": 9055,
+                "name": "User_Frank",
+                "roles": [
+                    "editor",
+                    "admin"
+                ]
+            },
+            "comments": [
+                {
+                    "user": "John",
+                    "timestamp": "2024-11-18T16:21:25.006074",
+                    "text": "Comment Needs improvement!"
+                }
+            ]
+        },
+        "values": [
+            {
+                "value_id": 74660,
+                "value": 69,
+                "timestamp": "2024-07-24T16:21:25.006080",
+                "sub_values": [
+                    {
+                        "sub_value_id": 2437,
+                        "data": 8.207087400213155,
+                        "comment": "Average"
+                    }
+                ]
+            }
+        ]
+    }
+}

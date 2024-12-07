@@ -1,0 +1,76 @@
+{
+    "id": 25,
+    "name": "Item_Delta_25",
+    "attributes": {
+        "color": "yellow",
+        "size": "9cm",
+        "weight": "12.51kg",
+        "material": "glass",
+        "dimensions": {
+            "length": "71cm",
+            "width": "52cm",
+            "height": "42cm"
+        }
+    },
+    "created_at": "2024-09-03T15:28:33.709166",
+    "tags": [
+        "random",
+        "json",
+        "test",
+        "yaml"
+    ],
+    "nested_structure": {
+        "sub_id": 5480,
+        "active": false,
+        "status": "archived",
+        "location": {
+            "city": "Vancouver",
+            "zipcode": 91316,
+            "coordinates": {
+                "latitude": -6.189753,
+                "longitude": 104.021791
+            }
+        },
+        "metadata": {
+            "creator": {
+                "id": 3699,
+                "name": "User_Bob",
+                "roles": [
+                    "contributor",
+                    "moderator"
+                ]
+            },
+            "comments": [
+                {
+                    "user": "John",
+                    "timestamp": "2024-11-13T15:28:33.709288",
+                    "text": "Comment Needs improvement!"
+                }
+            ]
+        },
+        "values": [
+            {
+                "value_id": 74421,
+                "value": 47,
+                "timestamp": "2024-06-25T15:28:33.709307",
+                "sub_values": [
+                    {
+                        "sub_value_id": 9273,
+                        "data": 2.4429985159492653,
+                        "comment": "Average"
+                    },
+                    {
+                        "sub_value_id": 5316,
+                        "data": 7.702484999570367,
+                        "comment": "Excellent"
+                    },
+                    {
+                        "sub_value_id": 6509,
+                        "data": 8.071548411511195,
+                        "comment": "Poor"
+                    }
+                ]
+            }
+        ]
+    }
+}

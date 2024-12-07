@@ -1,0 +1,66 @@
+{
+    "id": 19,
+    "name": "Item_Gamma_19",
+    "attributes": {
+        "color": "blue",
+        "size": "14cm",
+        "weight": "13.74kg",
+        "material": "plastic",
+        "dimensions": {
+            "length": "94cm",
+            "width": "84cm",
+            "height": "40cm"
+        }
+    },
+    "created_at": "2024-06-27T16:14:32.613626",
+    "tags": [
+        "yaml",
+        "data",
+        "archive",
+        "test"
+    ],
+    "nested_structure": {
+        "sub_id": 6854,
+        "active": true,
+        "status": "archived",
+        "location": {
+            "city": "San Francisco",
+            "zipcode": 46803,
+            "coordinates": {
+                "latitude": -52.848613,
+                "longitude": 104.872625
+            }
+        },
+        "metadata": {
+            "creator": {
+                "id": 5897,
+                "name": "User_Frank",
+                "roles": [
+                    "admin",
+                    "contributor"
+                ]
+            },
+            "comments": [
+                {
+                    "user": "Liam",
+                    "timestamp": "2024-10-27T16:14:32.613643",
+                    "text": "Comment Pending!"
+                }
+            ]
+        },
+        "values": [
+            {
+                "value_id": 22730,
+                "value": 47,
+                "timestamp": "2024-09-14T16:14:32.613648",
+                "sub_values": [
+                    {
+                        "sub_value_id": 7724,
+                        "data": 3.351773679724621,
+                        "comment": "Average"
+                    }
+                ]
+            }
+        ]
+    }
+}

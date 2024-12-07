@@ -1,0 +1,76 @@
+{
+    "id": 48,
+    "name": "Item_Theta_48",
+    "attributes": {
+        "color": "white",
+        "size": "39cm",
+        "weight": "1.90kg",
+        "material": "glass",
+        "dimensions": {
+            "length": "52cm",
+            "width": "71cm",
+            "height": "27cm"
+        }
+    },
+    "created_at": "2024-06-14T15:34:39.599022",
+    "tags": [
+        "unique",
+        "archive",
+        "debug",
+        "random"
+    ],
+    "nested_structure": {
+        "sub_id": 9481,
+        "active": false,
+        "status": "in_progress",
+        "location": {
+            "city": "Tokyo",
+            "zipcode": 33436,
+            "coordinates": {
+                "latitude": 73.125407,
+                "longitude": 89.737229
+            }
+        },
+        "metadata": {
+            "creator": {
+                "id": 2795,
+                "name": "User_Charlie",
+                "roles": [
+                    "moderator",
+                    "admin"
+                ]
+            },
+            "comments": [
+                {
+                    "user": "John",
+                    "timestamp": "2024-12-04T15:34:39.599123",
+                    "text": "Comment Interesting!"
+                },
+                {
+                    "user": "Liam",
+                    "timestamp": "2024-12-04T15:34:39.599139",
+                    "text": "Comment Needs improvement!"
+                },
+                {
+                    "user": "Sarah",
+                    "timestamp": "2024-11-20T15:34:39.599143",
+                    "text": "Comment Amazing!"
+                }
+            ]
+        },
+        "values": [
+            {
+                "value_id": 98050,
+                "value": 88,
+                "timestamp": "2024-11-19T15:34:39.599156",
+                "sub_values": [
+                    {
+                        "sub_value_id": 8132,
+                        "data": 0.5101656995741004,
+                        "comment": "Poor"
+                    }
+                ]
+            }
+        ]
+    }
+}

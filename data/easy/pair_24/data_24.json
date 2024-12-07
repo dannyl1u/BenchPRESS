@@ -1,0 +1,86 @@
+{
+    "id": 24,
+    "name": "Item_Epsilon_24",
+    "attributes": {
+        "color": "orange",
+        "size": "60cm",
+        "weight": "4.19kg",
+        "material": "wood",
+        "dimensions": {
+            "length": "54cm",
+            "width": "47cm",
+            "height": "13cm"
+        }
+    },
+    "created_at": "2024-06-09T15:28:15.135361",
+    "tags": [
+        "yaml",
+        "data",
+        "unique",
+        "random"
+    ],
+    "nested_structure": {
+        "sub_id": 6626,
+        "active": true,
+        "status": "in_progress",
+        "location": {
+            "city": "Berlin",
+            "zipcode": 79557,
+            "coordinates": {
+                "latitude": -75.770031,
+                "longitude": 115.056044
+            }
+        },
+        "metadata": {
+            "creator": {
+                "id": 8034,
+                "name": "User_Charlie",
+                "roles": [
+                    "moderator",
+                    "viewer"
+                ]
+            },
+            "comments": [
+                {
+                    "user": "John",
+                    "timestamp": "2024-10-22T15:28:15.135606",
+                    "text": "Comment Needs improvement!"
+                },
+                {
+                    "user": "Liam",
+                    "timestamp": "2024-10-24T15:28:15.135633",
+                    "text": "Comment Completed!"
+                },
+                {
+                    "user": "Sarah",
+                    "timestamp": "2024-11-19T15:28:15.135642",
+                    "text": "Comment Completed!"
+                }
+            ]
+        },
+        "values": [
+            {
+                "value_id": 78168,
+                "value": 88,
+                "timestamp": "2024-11-18T15:28:15.135659",
+                "sub_values": [
+                    {
+                        "sub_value_id": 9451,
+                        "data": 9.31227375679215,
+                        "comment": "Excellent"
+                    },
+                    {
+                        "sub_value_id": 8656,
+                        "data": 1.4897852470637456,
+                        "comment": "Good"
+                    },
+                    {
+                        "sub_value_id": 1316,
+                        "data": 4.2320111580616855,
+                        "comment": "Excellent"
+                    }
+                ]
+            }
+        ]
+    }
+}

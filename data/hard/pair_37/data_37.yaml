@@ -1,0 +1,46 @@
+attributes:
+  color: orange
+  dimensions:
+    height: 14cm
+    length: 79cm
+    width: 75cm
+  material: glass
+  size: 66cm
+  weight: 9.24kg
+created_at: '2024-11-04T16:19:31.779019'
+id: 37
+name: Item_Zeta_37
+nested_structure:
+  active: true
+  location:
+    city: Tokyo
+    coordinates:
+      latitude: -21.765753
+      longitude: 107.599602
+    zipcode: 96262
+  metadata:
+    comments:
+    - text: Comment Interesting!
+      timestamp: '2024-11-13T16:19:31.779086'
+      user: Sarah
+    creator:
+      id: 7137
+      name: User_Bob
+      roles:
+      - viewer
+      - editor
+  status: in_progress
+  sub_id: 8341
+  values:
+  - sub_values:
+    - comment: Excellent
+      data: 2.561668709247739
+      sub_value_id: 3856
+    timestamp: '2024-10-26T16:19:31.779098'
+    value: 85
+    value_id: 79849
+tags:
+- archive
+- random
+- unique
+- yaml

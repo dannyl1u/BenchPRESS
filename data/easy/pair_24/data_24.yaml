@@ -1,0 +1,58 @@
+attributes:
+  color: orange
+  dimensions:
+    height: 13cm
+    length: 54cm
+    width: 47cm
+  material: wood
+  size: 60cm
+  weight: 4.19kg
+created_at: '2024-06-09T15:28:15.135361'
+id: 24
+name: Item_Epsilon_24
+nested_structure:
+  active: true
+  location:
+    city: Berlin
+    coordinates:
+      latitude: -75.770031
+      longitude: 115.056044
+    zipcode: 79557
+  metadata:
+    comments:
+    - text: Comment Needs improvement!
+      timestamp: '2024-10-22T15:28:15.135606'
+      user: John
+    - text: Comment Completed!
+      timestamp: '2024-10-24T15:28:15.135633'
+      user: Liam
+    - text: Comment Completed!
+      timestamp: '2024-11-19T15:28:15.135642'
+      user: Sarah
+    creator:
+      id: 8034
+      name: User_Charlie
+      roles:
+      - moderator
+      - viewer
+  status: in_progress
+  sub_id: 6626
+  values:
+  - sub_values:
+    - comment: Excellent
+      data: 9.31227375679215
+      sub_value_id: 9451
+    - comment: Good
+      data: 1.4897852470637456
+      sub_value_id: 8656
+    - comment: Excellent
+      data: 4.2320111580616855
+      sub_value_id: 1316
+    timestamp: '2024-11-18T15:28:15.135659'
+    value: 88
+    value_id: 78168
+tags:
+- yaml
+- data
+- unique
+- random

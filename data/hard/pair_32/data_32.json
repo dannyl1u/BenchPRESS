@@ -1,0 +1,66 @@
+{
+    "id": 32,
+    "name": "Item_Theta_32",
+    "attributes": {
+        "color": "yellow",
+        "size": "9cm",
+        "weight": "12.73kg",
+        "material": "glass",
+        "dimensions": {
+            "length": "21cm",
+            "width": "83cm",
+            "height": "50cm"
+        }
+    },
+    "created_at": "2024-06-22T16:18:07.884592",
+    "tags": [
+        "random",
+        "archive",
+        "json",
+        "yaml"
+    ],
+    "nested_structure": {
+        "sub_id": 2329,
+        "active": true,
+        "status": "completed",
+        "location": {
+            "city": "New York",
+            "zipcode": 79339,
+            "coordinates": {
+                "latitude": 37.586974,
+                "longitude": 117.445682
+            }
+        },
+        "metadata": {
+            "creator": {
+                "id": 1985,
+                "name": "User_Charlie",
+                "roles": [
+                    "contributor",
+                    "editor"
+                ]
+            },
+            "comments": [
+                {
+                    "user": "Max",
+                    "timestamp": "2024-11-07T16:18:07.884604",
+                    "text": "Comment Needs improvement!"
+                }
+            ]
+        },
+        "values": [
+            {
+                "value_id": 32294,
+                "value": 22,
+                "timestamp": "2024-09-04T16:18:07.884608",
+                "sub_values": [
+                    {
+                        "sub_value_id": 4203,
+                        "data": 7.8226536082456875,
+                        "comment": "Good"
+                    }
+                ]
+            }
+        ]
+    }
+}

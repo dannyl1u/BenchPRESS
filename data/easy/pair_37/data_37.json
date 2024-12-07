@@ -1,0 +1,76 @@
+{
+    "id": 37,
+    "name": "Item_Delta_37",
+    "attributes": {
+        "color": "black",
+        "size": "65cm",
+        "weight": "7.86kg",
+        "material": "stone",
+        "dimensions": {
+            "length": "51cm",
+            "width": "76cm",
+            "height": "50cm"
+        }
+    },
+    "created_at": "2024-11-25T15:31:36.258056",
+    "tags": [
+        "example",
+        "test",
+        "yaml",
+        "json"
+    ],
+    "nested_structure": {
+        "sub_id": 2221,
+        "active": false,
+        "status": "new",
+        "location": {
+            "city": "San Francisco",
+            "zipcode": 55595,
+            "coordinates": {
+                "latitude": -34.549332,
+                "longitude": -133.637519
+            }
+        },
+        "metadata": {
+            "creator": {
+                "id": 2254,
+                "name": "User_Bob",
+                "roles": [
+                    "contributor",
+                    "viewer"
+                ]
+            },
+            "comments": [
+                {
+                    "user": "Liam",
+                    "timestamp": "2024-11-08T15:31:36.258318",
+                    "text": "Comment Interesting!"
+                },
+                {
+                    "user": "Liam",
+                    "timestamp": "2024-11-23T15:31:36.258342",
+                    "text": "Comment Amazing!"
+                }
+            ]
+        },
+        "values": [
+            {
+                "value_id": 90038,
+                "value": 93,
+                "timestamp": "2024-06-28T15:31:36.258361",
+                "sub_values": [
+                    {
+                        "sub_value_id": 8810,
+                        "data": 7.050161525401616,
+                        "comment": "Good"
+                    },
+                    {
+                        "sub_value_id": 1500,
+                        "data": 2.9118805287560536,
+                        "comment": "Average"
+                    }
+                ]
+            }
+        ]
+    }
+}

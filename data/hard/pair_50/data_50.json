@@ -1,0 +1,66 @@
+{
+    "id": 50,
+    "name": "Item_Beta_50",
+    "attributes": {
+        "color": "blue",
+        "size": "94cm",
+        "weight": "2.97kg",
+        "material": "plastic",
+        "dimensions": {
+            "length": "12cm",
+            "width": "43cm",
+            "height": "5cm"
+        }
+    },
+    "created_at": "2024-11-30T16:22:58.033673",
+    "tags": [
+        "debug",
+        "vintage",
+        "json",
+        "unique"
+    ],
+    "nested_structure": {
+        "sub_id": 5290,
+        "active": true,
+        "status": "in_progress",
+        "location": {
+            "city": "New York",
+            "zipcode": 95970,
+            "coordinates": {
+                "latitude": 50.22767,
+                "longitude": -164.936846
+            }
+        },
+        "metadata": {
+            "creator": {
+                "id": 2389,
+                "name": "User_Charlie",
+                "roles": [
+                    "editor",
+                    "viewer"
+                ]
+            },
+            "comments": [
+                {
+                    "user": "Max",
+                    "timestamp": "2024-11-07T16:22:58.033685",
+                    "text": "Comment Pending!"
+                }
+            ]
+        },
+        "values": [
+            {
+                "value_id": 92122,
+                "value": 87,
+                "timestamp": "2024-09-27T16:22:58.033689",
+                "sub_values": [
+                    {
+                        "sub_value_id": 3302,
+                        "data": 2.6522722252305324,
+                        "comment": "Excellent"
+                    }
+                ]
+            }
+        ]
+    }
+}

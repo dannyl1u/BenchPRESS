@@ -1,0 +1,52 @@
+attributes:
+  color: green
+  dimensions:
+    height: 19cm
+    length: 80cm
+    width: 80cm
+  material: plastic
+  size: 57cm
+  weight: 10.75kg
+created_at: '2024-07-11T15:23:39.744751'
+id: 6
+name: Item_Delta_6
+nested_structure:
+  active: false
+  location:
+    city: London
+    coordinates:
+      latitude: -33.078103
+      longitude: -63.999109
+    zipcode: 10684
+  metadata:
+    comments:
+    - text: Comment Interesting!
+      timestamp: '2024-10-28T15:23:39.744923'
+      user: Max
+    creator:
+      id: 2773
+      name: User_Charlie
+      roles:
+      - editor
+      - moderator
+  status: archived
+  sub_id: 6631
+  values:
+  - sub_values:
+    - comment: Poor
+      data: 6.410006236597241
+      sub_value_id: 5715
+    - comment: Poor
+      data: 1.104326669857779
+      sub_value_id: 6160
+    - comment: Average
+      data: 5.2094626894333045
+      sub_value_id: 3772
+    timestamp: '2024-07-01T15:23:39.744970'
+    value: 11
+    value_id: 23107
+tags:
+- data
+- random
+- test
+- example

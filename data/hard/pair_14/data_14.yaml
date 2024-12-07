@@ -1,0 +1,46 @@
+attributes:
+  color: yellow
+  dimensions:
+    height: 6cm
+    length: 75cm
+    width: 20cm
+  material: fabric
+  size: 64cm
+  weight: 14.44kg
+created_at: '2024-09-15T16:13:11.166819'
+id: 14
+name: Item_Zeta_14
+nested_structure:
+  active: false
+  location:
+    city: San Francisco
+    coordinates:
+      latitude: 69.801567
+      longitude: -86.145369
+    zipcode: 68986
+  metadata:
+    comments:
+    - text: Comment Pending!
+      timestamp: '2024-11-15T16:13:11.166893'
+      user: Sarah
+    creator:
+      id: 2857
+      name: User_Diana
+      roles:
+      - moderator
+      - contributor
+  status: archived
+  sub_id: 2169
+  values:
+  - sub_values:
+    - comment: Excellent
+      data: 2.030223283404626
+      sub_value_id: 3570
+    timestamp: '2024-09-16T16:13:11.166913'
+    value: 36
+    value_id: 24041
+tags:
+- random
+- unique
+- vintage
+- example

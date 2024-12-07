@@ -1,0 +1,46 @@
+attributes:
+  color: black
+  dimensions:
+    height: 30cm
+    length: 99cm
+    width: 98cm
+  material: wood
+  size: 85cm
+  weight: 12.17kg
+created_at: '2024-06-07T16:15:20.602933'
+id: 22
+name: Item_Zeta_22
+nested_structure:
+  active: true
+  location:
+    city: Berlin
+    coordinates:
+      latitude: -30.219554
+      longitude: -152.704684
+    zipcode: 43632
+  metadata:
+    comments:
+    - text: Comment Completed!
+      timestamp: '2024-11-24T16:15:20.603004'
+      user: Sarah
+    creator:
+      id: 5906
+      name: User_Alice
+      roles:
+      - contributor
+      - viewer
+  status: completed
+  sub_id: 3251
+  values:
+  - sub_values:
+    - comment: Good
+      data: 5.609757972723501
+      sub_value_id: 4711
+    timestamp: '2024-06-20T16:15:20.603022'
+    value: 28
+    value_id: 82301
+tags:
+- example
+- unique
+- json
+- test

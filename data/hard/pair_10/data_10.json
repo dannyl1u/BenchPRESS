@@ -1,0 +1,66 @@
+{
+    "id": 10,
+    "name": "Item_Alpha_10",
+    "attributes": {
+        "color": "purple",
+        "size": "63cm",
+        "weight": "14.61kg",
+        "material": "fabric",
+        "dimensions": {
+            "length": "94cm",
+            "width": "23cm",
+            "height": "31cm"
+        }
+    },
+    "created_at": "2024-09-01T16:12:06.363226",
+    "tags": [
+        "yaml",
+        "example",
+        "archive",
+        "unique"
+    ],
+    "nested_structure": {
+        "sub_id": 7622,
+        "active": true,
+        "status": "completed",
+        "location": {
+            "city": "New York",
+            "zipcode": 83129,
+            "coordinates": {
+                "latitude": -21.283889,
+                "longitude": 95.22219
+            }
+        },
+        "metadata": {
+            "creator": {
+                "id": 9191,
+                "name": "User_Frank",
+                "roles": [
+                    "admin",
+                    "viewer"
+                ]
+            },
+            "comments": [
+                {
+                    "user": "John",
+                    "timestamp": "2024-11-18T16:12:06.363256",
+                    "text": "Comment Amazing!"
+                }
+            ]
+        },
+        "values": [
+            {
+                "value_id": 32382,
+                "value": 75,
+                "timestamp": "2024-07-23T16:12:06.363264",
+                "sub_values": [
+                    {
+                        "sub_value_id": 3929,
+                        "data": 4.181891810292034,
+                        "comment": "Average"
+                    }
+                ]
+            }
+        ]
+    }
+}

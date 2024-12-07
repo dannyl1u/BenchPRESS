@@ -1,0 +1,49 @@
+attributes:
+  color: black
+  dimensions:
+    height: 13cm
+    length: 47cm
+    width: 48cm
+  material: plastic
+  size: 45cm
+  weight: 13.43kg
+created_at: '2024-11-12T15:25:39.943284'
+id: 14
+name: Item_Epsilon_14
+nested_structure:
+  active: true
+  location:
+    city: Vancouver
+    coordinates:
+      latitude: -60.73824
+      longitude: 39.160012
+    zipcode: 23132
+  metadata:
+    comments:
+    - text: Comment Completed!
+      timestamp: '2024-11-03T15:25:39.943366'
+      user: Liam
+    creator:
+      id: 1254
+      name: User_Alice
+      roles:
+      - admin
+      - viewer
+  status: in_progress
+  sub_id: 6099
+  values:
+  - sub_values:
+    - comment: Excellent
+      data: 7.5610199502242565
+      sub_value_id: 2182
+    - comment: Average
+      data: 3.2937811664617476
+      sub_value_id: 7856
+    timestamp: '2024-08-22T15:25:39.943386'
+    value: 33
+    value_id: 96466
+tags:
+- data
+- random
+- json
+- test

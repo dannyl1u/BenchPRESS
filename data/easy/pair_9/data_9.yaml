@@ -1,0 +1,52 @@
+attributes:
+  color: purple
+  dimensions:
+    height: 5cm
+    length: 19cm
+    width: 13cm
+  material: plastic
+  size: 12cm
+  weight: 5.27kg
+created_at: '2024-10-27T15:24:20.801673'
+id: 9
+name: Item_Beta_9
+nested_structure:
+  active: true
+  location:
+    city: San Francisco
+    coordinates:
+      latitude: 13.861425
+      longitude: -15.747532
+    zipcode: 33619
+  metadata:
+    comments:
+    - text: Comment Completed!
+      timestamp: '2024-11-01T15:24:20.801736'
+      user: Max
+    - text: Comment Pending!
+      timestamp: '2024-12-03T15:24:20.801746'
+      user: Liam
+    creator:
+      id: 7369
+      name: User_Diana
+      roles:
+      - contributor
+      - admin
+  status: completed
+  sub_id: 6112
+  values:
+  - sub_values:
+    - comment: Excellent
+      data: 8.170537746990489
+      sub_value_id: 9522
+    - comment: Good
+      data: 8.109680795988831
+      sub_value_id: 7043
+    timestamp: '2024-08-13T15:24:20.801752'
+    value: 62
+    value_id: 13319
+tags:
+- test
+- unique
+- json
+- random

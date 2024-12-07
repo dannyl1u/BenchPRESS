@@ -1,0 +1,66 @@
+{
+    "id": 39,
+    "name": "Item_Theta_39",
+    "attributes": {
+        "color": "yellow",
+        "size": "49cm",
+        "weight": "15.42kg",
+        "material": "stone",
+        "dimensions": {
+            "length": "82cm",
+            "width": "23cm",
+            "height": "49cm"
+        }
+    },
+    "created_at": "2024-10-22T16:20:03.523833",
+    "tags": [
+        "json",
+        "example",
+        "data",
+        "unique"
+    ],
+    "nested_structure": {
+        "sub_id": 4484,
+        "active": false,
+        "status": "completed",
+        "location": {
+            "city": "Tokyo",
+            "zipcode": 40675,
+            "coordinates": {
+                "latitude": -13.070641,
+                "longitude": 12.744772
+            }
+        },
+        "metadata": {
+            "creator": {
+                "id": 3909,
+                "name": "User_Diana",
+                "roles": [
+                    "contributor",
+                    "moderator"
+                ]
+            },
+            "comments": [
+                {
+                    "user": "Max",
+                    "timestamp": "2024-10-17T16:20:03.523856",
+                    "text": "Comment Interesting!"
+                }
+            ]
+        },
+        "values": [
+            {
+                "value_id": 92276,
+                "value": 88,
+                "timestamp": "2024-11-25T16:20:03.523864",
+                "sub_values": [
+                    {
+                        "sub_value_id": 5677,
+                        "data": 7.911415450839967,
+                        "comment": "Good"
+                    }
+                ]
+            }
+        ]
+    }
+}

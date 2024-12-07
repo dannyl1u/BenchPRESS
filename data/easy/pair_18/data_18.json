@@ -1,0 +1,71 @@
+{
+    "id": 18,
+    "name": "Item_Delta_18",
+    "attributes": {
+        "color": "green",
+        "size": "72cm",
+        "weight": "17.20kg",
+        "material": "fabric",
+        "dimensions": {
+            "length": "83cm",
+            "width": "77cm",
+            "height": "28cm"
+        }
+    },
+    "created_at": "2024-10-24T15:26:41.006155",
+    "tags": [
+        "debug",
+        "yaml",
+        "unique",
+        "vintage"
+    ],
+    "nested_structure": {
+        "sub_id": 4300,
+        "active": false,
+        "status": "new",
+        "location": {
+            "city": "London",
+            "zipcode": 51736,
+            "coordinates": {
+                "latitude": -70.560769,
+                "longitude": -28.358348
+            }
+        },
+        "metadata": {
+            "creator": {
+                "id": 8997,
+                "name": "User_Eve",
+                "roles": [
+                    "editor",
+                    "admin"
+                ]
+            },
+            "comments": [
+                {
+                    "user": "Max",
+                    "timestamp": "2024-10-24T15:26:41.006279",
+                    "text": "Comment Amazing!"
+                }
+            ]
+        },
+        "values": [
+            {
+                "value_id": 10127,
+                "value": 17,
+                "timestamp": "2024-10-26T15:26:41.006303",
+                "sub_values": [
+                    {
+                        "sub_value_id": 7192,
+                        "data": 8.238574616345193,
+                        "comment": "Good"
+                    },
+                    {
+                        "sub_value_id": 5499,
+                        "data": 4.265316660201382,
+                        "comment": "Poor"
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+attributes:
+  color: red
+  dimensions:
+    height: 5cm
+    length: 19cm
+    width: 46cm
+  material: glass
+  size: 43cm
+  weight: 14.38kg
+created_at: '2024-11-18T16:14:32.613450'
+id: 19
+name: Item_Epsilon_19
+nested_structure:
+  active: false
+  location:
+    city: Paris
+    coordinates:
+      latitude: 28.364059
+      longitude: -76.902169
+    zipcode: 12944
+  metadata:
+    comments:
+    - text: Comment Completed!
+      timestamp: '2024-10-31T16:14:32.613511'
+      user: Max
+    creator:
+      id: 6674
+      name: User_Diana
+      roles:
+      - contributor
+      - moderator
+  status: archived
+  sub_id: 6859
+  values:
+  - sub_values:
+    - comment: Average
+      data: 4.8419930899368575
+      sub_value_id: 7865
+    timestamp: '2024-09-23T16:14:32.613520'
+    value: 15
+    value_id: 24203
+tags:
+- json
+- vintage
+- data
+- random

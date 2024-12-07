@@ -1,0 +1,46 @@
+attributes:
+  color: yellow
+  dimensions:
+    height: 44cm
+    length: 28cm
+    width: 25cm
+  material: fabric
+  size: 78cm
+  weight: 6.30kg
+created_at: '2024-08-09T16:53:33.022820'
+id: 2
+name: Item_Theta_2
+nested_structure:
+  active: false
+  location:
+    city: Tokyo
+    coordinates:
+      latitude: 34.268658
+      longitude: -73.719983
+    zipcode: 91094
+  metadata:
+    comments:
+    - text: Comment Completed!
+      timestamp: '2024-10-27T16:53:33.022909'
+      user: Sarah
+    creator:
+      id: 4950
+      name: User_Alice
+      roles:
+      - admin
+      - contributor
+  status: new
+  sub_id: 2407
+  values:
+  - sub_values:
+    - comment: Excellent
+      data: 9.610078258003938
+      sub_value_id: 6938
+    timestamp: '2024-06-10T16:53:33.022924'
+    value: 41
+    value_id: 34345
+tags:
+- vintage
+- unique
+- yaml
+- archive

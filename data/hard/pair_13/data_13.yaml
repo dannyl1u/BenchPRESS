@@ -1,0 +1,46 @@
+attributes:
+  color: black
+  dimensions:
+    height: 28cm
+    length: 61cm
+    width: 16cm
+  material: stone
+  size: 62cm
+  weight: 7.53kg
+created_at: '2024-10-28T16:12:54.820869'
+id: 13
+name: Item_Beta_13
+nested_structure:
+  active: false
+  location:
+    city: Paris
+    coordinates:
+      latitude: -52.3842
+      longitude: -59.452575
+    zipcode: 50484
+  metadata:
+    comments:
+    - text: Comment Amazing!
+      timestamp: '2024-10-30T16:12:54.820988'
+      user: Liam
+    creator:
+      id: 6490
+      name: User_Alice
+      roles:
+      - contributor
+      - editor
+  status: completed
+  sub_id: 4042
+  values:
+  - sub_values:
+    - comment: Poor
+      data: 1.0764560894187203
+      sub_value_id: 1744
+    timestamp: '2024-11-10T16:12:54.821002'
+    value: 55
+    value_id: 34083
+tags:
+- archive
+- yaml
+- vintage
+- example

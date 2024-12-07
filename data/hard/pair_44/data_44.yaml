@@ -1,0 +1,46 @@
+attributes:
+  color: red
+  dimensions:
+    height: 10cm
+    length: 39cm
+    width: 19cm
+  material: metal
+  size: 5cm
+  weight: 9.19kg
+created_at: '2024-11-16T16:21:25.005936'
+id: 44
+name: Item_Zeta_44
+nested_structure:
+  active: true
+  location:
+    city: San Francisco
+    coordinates:
+      latitude: -89.253761
+      longitude: 61.311497
+    zipcode: 86434
+  metadata:
+    comments:
+    - text: Comment Amazing!
+      timestamp: '2024-10-24T16:21:25.005991'
+      user: Liam
+    creator:
+      id: 9753
+      name: User_Diana
+      roles:
+      - moderator
+      - viewer
+  status: in_progress
+  sub_id: 7097
+  values:
+  - sub_values:
+    - comment: Average
+      data: 5.500523348863105
+      sub_value_id: 2492
+    timestamp: '2024-08-08T16:21:25.006001'
+    value: 30
+    value_id: 68184
+tags:
+- archive
+- json
+- unique
+- example

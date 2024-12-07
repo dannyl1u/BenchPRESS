@@ -1,0 +1,66 @@
+{
+    "id": 36,
+    "name": "Item_Zeta_36",
+    "attributes": {
+        "color": "red",
+        "size": "45cm",
+        "weight": "4.81kg",
+        "material": "wood",
+        "dimensions": {
+            "length": "17cm",
+            "width": "76cm",
+            "height": "37cm"
+        }
+    },
+    "created_at": "2024-11-01T15:31:23.148330",
+    "tags": [
+        "archive",
+        "test",
+        "random",
+        "data"
+    ],
+    "nested_structure": {
+        "sub_id": 4244,
+        "active": true,
+        "status": "archived",
+        "location": {
+            "city": "Berlin",
+            "zipcode": 23035,
+            "coordinates": {
+                "latitude": -41.25087,
+                "longitude": 84.934664
+            }
+        },
+        "metadata": {
+            "creator": {
+                "id": 3527,
+                "name": "User_Diana",
+                "roles": [
+                    "viewer",
+                    "admin"
+                ]
+            },
+            "comments": [
+                {
+                    "user": "John",
+                    "timestamp": "2024-11-05T15:31:23.148457",
+                    "text": "Comment Pending!"
+                }
+            ]
+        },
+        "values": [
+            {
+                "value_id": 49375,
+                "value": 23,
+                "timestamp": "2024-11-22T15:31:23.148477",
+                "sub_values": [
+                    {
+                        "sub_value_id": 8689,
+                        "data": 8.097503618243808,
+                        "comment": "Average"
+                    }
+                ]
+            }
+        ]
+    }
+}

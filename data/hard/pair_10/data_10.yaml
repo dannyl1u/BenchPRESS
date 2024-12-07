@@ -1,0 +1,46 @@
+attributes:
+  color: white
+  dimensions:
+    height: 44cm
+    length: 15cm
+    width: 85cm
+  material: plastic
+  size: 61cm
+  weight: 4.13kg
+created_at: '2024-06-15T16:12:06.362837'
+id: 10
+name: Item_Zeta_10
+nested_structure:
+  active: true
+  location:
+    city: Paris
+    coordinates:
+      latitude: -41.628549
+      longitude: -117.17362
+    zipcode: 31283
+  metadata:
+    comments:
+    - text: Comment Interesting!
+      timestamp: '2024-11-25T16:12:06.363045'
+      user: Liam
+    creator:
+      id: 8641
+      name: User_Eve
+      roles:
+      - contributor
+      - admin
+  status: completed
+  sub_id: 3884
+  values:
+  - sub_values:
+    - comment: Good
+      data: 0.821438836450651
+      sub_value_id: 3619
+    timestamp: '2024-11-24T16:12:06.363087'
+    value: 0
+    value_id: 45432
+tags:
+- example
+- vintage
+- test
+- json

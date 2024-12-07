@@ -1,0 +1,49 @@
+attributes:
+  color: orange
+  dimensions:
+    height: 16cm
+    length: 38cm
+    width: 79cm
+  material: fabric
+  size: 29cm
+  weight: 6.29kg
+created_at: '2024-07-01T15:32:08.682804'
+id: 39
+name: Item_Beta_39
+nested_structure:
+  active: true
+  location:
+    city: Vancouver
+    coordinates:
+      latitude: 70.378317
+      longitude: -110.397978
+    zipcode: 97140
+  metadata:
+    comments:
+    - text: Comment Pending!
+      timestamp: '2024-11-28T15:32:08.682886'
+      user: Max
+    - text: Comment Amazing!
+      timestamp: '2024-11-25T15:32:08.682898'
+      user: John
+    creator:
+      id: 9240
+      name: User_Alice
+      roles:
+      - moderator
+      - editor
+  status: completed
+  sub_id: 6897
+  values:
+  - sub_values:
+    - comment: Excellent
+      data: 6.106266458256768
+      sub_value_id: 7238
+    timestamp: '2024-11-22T15:32:08.682905'
+    value: 44
+    value_id: 48315
+tags:
+- vintage
+- debug
+- yaml
+- test

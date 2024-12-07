@@ -1,0 +1,46 @@
+attributes:
+  color: purple
+  dimensions:
+    height: 26cm
+    length: 19cm
+    width: 49cm
+  material: metal
+  size: 90cm
+  weight: 7.10kg
+created_at: '2024-05-25T16:17:53.076442'
+id: 31
+name: Item_Alpha_31
+nested_structure:
+  active: false
+  location:
+    city: New York
+    coordinates:
+      latitude: 47.494177
+      longitude: -120.886079
+    zipcode: 14067
+  metadata:
+    comments:
+    - text: Comment Interesting!
+      timestamp: '2024-11-24T16:17:53.076617'
+      user: Kate
+    creator:
+      id: 8655
+      name: User_Bob
+      roles:
+      - editor
+      - admin
+  status: completed
+  sub_id: 1809
+  values:
+  - sub_values:
+    - comment: Excellent
+      data: 8.072120234778634
+      sub_value_id: 6416
+    timestamp: '2024-08-22T16:17:53.076659'
+    value: 87
+    value_id: 96025
+tags:
+- random
+- debug
+- data
+- example

@@ -1,0 +1,46 @@
+attributes:
+  color: yellow
+  dimensions:
+    height: 47cm
+    length: 80cm
+    width: 23cm
+  material: glass
+  size: 67cm
+  weight: 18.61kg
+created_at: '2024-10-21T16:19:46.346816'
+id: 38
+name: Item_Epsilon_38
+nested_structure:
+  active: false
+  location:
+    city: London
+    coordinates:
+      latitude: -53.689012
+      longitude: -16.381771
+    zipcode: 98478
+  metadata:
+    comments:
+    - text: Comment Pending!
+      timestamp: '2024-10-19T16:19:46.346957'
+      user: John
+    creator:
+      id: 6609
+      name: User_Bob
+      roles:
+      - viewer
+      - editor
+  status: completed
+  sub_id: 4061
+  values:
+  - sub_values:
+    - comment: Poor
+      data: 3.8012375472733297
+      sub_value_id: 1326
+    timestamp: '2024-07-12T16:19:46.346977'
+    value: 41
+    value_id: 28772
+tags:
+- test
+- data
+- yaml
+- vintage

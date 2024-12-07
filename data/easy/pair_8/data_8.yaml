@@ -1,0 +1,55 @@
+attributes:
+  color: blue
+  dimensions:
+    height: 37cm
+    length: 18cm
+    width: 88cm
+  material: fabric
+  size: 53cm
+  weight: 2.89kg
+created_at: '2024-08-26T15:24:03.243043'
+id: 8
+name: Item_Epsilon_8
+nested_structure:
+  active: true
+  location:
+    city: Paris
+    coordinates:
+      latitude: -57.891613
+      longitude: 121.126532
+    zipcode: 49541
+  metadata:
+    comments:
+    - text: Comment Amazing!
+      timestamp: '2024-11-06T15:24:03.243254'
+      user: Sarah
+    - text: Comment Completed!
+      timestamp: '2024-12-01T15:24:03.243271'
+      user: Liam
+    - text: Comment Needs improvement!
+      timestamp: '2024-11-10T15:24:03.243275'
+      user: John
+    creator:
+      id: 9117
+      name: User_Frank
+      roles:
+      - contributor
+      - moderator
+  status: completed
+  sub_id: 5972
+  values:
+  - sub_values:
+    - comment: Excellent
+      data: 5.212110264852155
+      sub_value_id: 2807
+    - comment: Excellent
+      data: 8.866027325350393
+      sub_value_id: 2017
+    timestamp: '2024-11-18T15:24:03.243293'
+    value: 13
+    value_id: 10210
+tags:
+- example
+- vintage
+- debug
+- yaml

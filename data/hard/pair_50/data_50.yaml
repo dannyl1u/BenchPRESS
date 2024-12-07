@@ -1,0 +1,46 @@
+attributes:
+  color: orange
+  dimensions:
+    height: 31cm
+    length: 41cm
+    width: 23cm
+  material: metal
+  size: 59cm
+  weight: 8.00kg
+created_at: '2024-08-13T16:22:58.033469'
+id: 50
+name: Item_Beta_50
+nested_structure:
+  active: true
+  location:
+    city: Tokyo
+    coordinates:
+      latitude: 30.95457
+      longitude: -97.133551
+    zipcode: 74099
+  metadata:
+    comments:
+    - text: Comment Completed!
+      timestamp: '2024-11-04T16:22:58.033582'
+      user: Kate
+    creator:
+      id: 2082
+      name: User_Diana
+      roles:
+      - viewer
+      - moderator
+  status: completed
+  sub_id: 5218
+  values:
+  - sub_values:
+    - comment: Excellent
+      data: 2.5500766713182714
+      sub_value_id: 5974
+    timestamp: '2024-08-27T16:22:58.033605'
+    value: 78
+    value_id: 84627
+tags:
+- vintage
+- debug
+- data
+- example

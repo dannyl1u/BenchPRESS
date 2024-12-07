@@ -1,0 +1,46 @@
+attributes:
+  color: green
+  dimensions:
+    height: 26cm
+    length: 16cm
+    width: 98cm
+  material: stone
+  size: 19cm
+  weight: 1.81kg
+created_at: '2024-06-20T16:18:24.959925'
+id: 33
+name: Item_Zeta_33
+nested_structure:
+  active: true
+  location:
+    city: New York
+    coordinates:
+      latitude: -68.904598
+      longitude: -25.171398
+    zipcode: 91770
+  metadata:
+    comments:
+    - text: Comment Completed!
+      timestamp: '2024-11-18T16:18:24.959990'
+      user: Kate
+    creator:
+      id: 3729
+      name: User_Bob
+      roles:
+      - moderator
+      - editor
+  status: new
+  sub_id: 8484
+  values:
+  - sub_values:
+    - comment: Excellent
+      data: 5.757738192786448
+      sub_value_id: 6974
+    timestamp: '2024-10-06T16:18:24.960010'
+    value: 32
+    value_id: 82687
+tags:
+- yaml
+- random
+- example
+- debug

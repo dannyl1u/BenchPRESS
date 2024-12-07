@@ -1,0 +1,58 @@
+attributes:
+  color: blue
+  dimensions:
+    height: 7cm
+    length: 88cm
+    width: 23cm
+  material: fabric
+  size: 99cm
+  weight: 17.87kg
+created_at: '2024-07-14T15:25:54.523599'
+id: 15
+name: Item_Epsilon_15
+nested_structure:
+  active: true
+  location:
+    city: Tokyo
+    coordinates:
+      latitude: -13.294639
+      longitude: -133.339793
+    zipcode: 81004
+  metadata:
+    comments:
+    - text: Comment Pending!
+      timestamp: '2024-11-05T15:25:54.523711'
+      user: Liam
+    - text: Comment Pending!
+      timestamp: '2024-10-29T15:25:54.523724'
+      user: Liam
+    - text: Comment Pending!
+      timestamp: '2024-11-22T15:25:54.523728'
+      user: Sarah
+    creator:
+      id: 7062
+      name: User_Bob
+      roles:
+      - viewer
+      - contributor
+  status: archived
+  sub_id: 3697
+  values:
+  - sub_values:
+    - comment: Excellent
+      data: 0.35100197003291433
+      sub_value_id: 9346
+    - comment: Poor
+      data: 9.272447927470505
+      sub_value_id: 5224
+    - comment: Good
+      data: 1.5565589916981406
+      sub_value_id: 3410
+    timestamp: '2024-07-20T15:25:54.523734'
+    value: 40
+    value_id: 30175
+tags:
+- yaml
+- data
+- vintage
+- json

@@ -1,0 +1,46 @@
+attributes:
+  color: black
+  dimensions:
+    height: 34cm
+    length: 21cm
+    width: 85cm
+  material: fabric
+  size: 84cm
+  weight: 8.16kg
+created_at: '2024-10-18T16:10:46.846919'
+id: 3
+name: Item_Theta_3
+nested_structure:
+  active: true
+  location:
+    city: New York
+    coordinates:
+      latitude: -53.489698
+      longitude: -26.221454
+    zipcode: 78847
+  metadata:
+    comments:
+    - text: Comment Needs improvement!
+      timestamp: '2024-10-21T16:10:46.846971'
+      user: Kate
+    creator:
+      id: 7625
+      name: User_Frank
+      roles:
+      - viewer
+      - contributor
+  status: new
+  sub_id: 2784
+  values:
+  - sub_values:
+    - comment: Excellent
+      data: 7.856853813755091
+      sub_value_id: 2222
+    timestamp: '2024-11-27T16:10:46.846982'
+    value: 75
+    value_id: 32336
+tags:
+- yaml
+- unique
+- random
+- example

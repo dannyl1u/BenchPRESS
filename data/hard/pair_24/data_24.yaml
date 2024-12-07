@@ -1,0 +1,46 @@
+attributes:
+  color: blue
+  dimensions:
+    height: 7cm
+    length: 56cm
+    width: 59cm
+  material: plastic
+  size: 13cm
+  weight: 1.02kg
+created_at: '2024-07-26T16:15:50.446281'
+id: 24
+name: Item_Delta_24
+nested_structure:
+  active: false
+  location:
+    city: Paris
+    coordinates:
+      latitude: -73.289327
+      longitude: -161.365124
+    zipcode: 25519
+  metadata:
+    comments:
+    - text: Comment Needs improvement!
+      timestamp: '2024-11-03T16:15:50.446381'
+      user: Liam
+    creator:
+      id: 9610
+      name: User_Bob
+      roles:
+      - moderator
+      - contributor
+  status: completed
+  sub_id: 1393
+  values:
+  - sub_values:
+    - comment: Average
+      data: 9.287536360368806
+      sub_value_id: 3184
+    timestamp: '2024-07-18T16:15:50.446449'
+    value: 55
+    value_id: 86960
+tags:
+- example
+- test
+- yaml
+- debug

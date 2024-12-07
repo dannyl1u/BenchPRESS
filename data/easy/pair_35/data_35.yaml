@@ -1,0 +1,52 @@
+attributes:
+  color: blue
+  dimensions:
+    height: 13cm
+    length: 67cm
+    width: 45cm
+  material: stone
+  size: 65cm
+  weight: 1.19kg
+created_at: '2024-06-08T15:31:07.937133'
+id: 35
+name: Item_Beta_35
+nested_structure:
+  active: true
+  location:
+    city: Berlin
+    coordinates:
+      latitude: -49.017314
+      longitude: -169.08539
+    zipcode: 92337
+  metadata:
+    comments:
+    - text: Comment Amazing!
+      timestamp: '2024-11-21T15:31:07.937198'
+      user: John
+    - text: Comment Interesting!
+      timestamp: '2024-10-19T15:31:07.937206'
+      user: Sarah
+    creator:
+      id: 5682
+      name: User_Frank
+      roles:
+      - viewer
+      - admin
+  status: completed
+  sub_id: 3295
+  values:
+  - sub_values:
+    - comment: Excellent
+      data: 9.82190136090707
+      sub_value_id: 1322
+    - comment: Average
+      data: 7.315999830394466
+      sub_value_id: 6340
+    timestamp: '2024-06-11T15:31:07.937215'
+    value: 52
+    value_id: 36488
+tags:
+- vintage
+- data
+- unique
+- yaml

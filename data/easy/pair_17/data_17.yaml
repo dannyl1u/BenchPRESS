@@ -1,0 +1,49 @@
+attributes:
+  color: black
+  dimensions:
+    height: 41cm
+    length: 34cm
+    width: 67cm
+  material: wood
+  size: 17cm
+  weight: 6.28kg
+created_at: '2024-06-14T15:26:26.575013'
+id: 17
+name: Item_Zeta_17
+nested_structure:
+  active: false
+  location:
+    city: Tokyo
+    coordinates:
+      latitude: -64.959898
+      longitude: -121.26287
+    zipcode: 90888
+  metadata:
+    comments:
+    - text: Comment Amazing!
+      timestamp: '2024-11-24T15:26:26.575057'
+      user: Max
+    creator:
+      id: 7124
+      name: User_Bob
+      roles:
+      - viewer
+      - contributor
+  status: in_progress
+  sub_id: 1414
+  values:
+  - sub_values:
+    - comment: Good
+      data: 9.341475658866871
+      sub_value_id: 6034
+    - comment: Poor
+      data: 8.80712566245298
+      sub_value_id: 4768
+    timestamp: '2024-05-28T15:26:26.575067'
+    value: 0
+    value_id: 68864
+tags:
+- random
+- unique
+- archive
+- debug

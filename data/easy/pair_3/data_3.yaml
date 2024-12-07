@@ -1,0 +1,55 @@
+attributes:
+  color: orange
+  dimensions:
+    height: 40cm
+    length: 39cm
+    width: 54cm
+  material: stone
+  size: 93cm
+  weight: 7.82kg
+created_at: '2024-06-12T16:53:38.646763'
+id: 3
+name: Item_Alpha_3
+nested_structure:
+  active: true
+  location:
+    city: Paris
+    coordinates:
+      latitude: 28.763685
+      longitude: -136.723933
+    zipcode: 80508
+  metadata:
+    comments:
+    - text: Comment Amazing!
+      timestamp: '2024-11-27T16:53:38.646851'
+      user: Kate
+    - text: Comment Amazing!
+      timestamp: '2024-11-07T16:53:38.646862'
+      user: John
+    creator:
+      id: 9286
+      name: User_Alice
+      roles:
+      - moderator
+      - admin
+  status: new
+  sub_id: 1543
+  values:
+  - sub_values:
+    - comment: Average
+      data: 4.823245731204298
+      sub_value_id: 9718
+    - comment: Average
+      data: 7.012352953333221
+      sub_value_id: 1209
+    - comment: Average
+      data: 2.4942157145652857
+      sub_value_id: 3199
+    timestamp: '2024-12-04T16:53:38.646874'
+    value: 9
+    value_id: 39437
+tags:
+- debug
+- random
+- vintage
+- data

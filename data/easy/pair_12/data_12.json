@@ -1,0 +1,71 @@
+{
+    "id": 12,
+    "name": "Item_Beta_12",
+    "attributes": {
+        "color": "black",
+        "size": "17cm",
+        "weight": "7.23kg",
+        "material": "wood",
+        "dimensions": {
+            "length": "77cm",
+            "width": "65cm",
+            "height": "36cm"
+        }
+    },
+    "created_at": "2024-06-09T15:25:09.447616",
+    "tags": [
+        "example",
+        "archive",
+        "data",
+        "unique"
+    ],
+    "nested_structure": {
+        "sub_id": 3465,
+        "active": true,
+        "status": "new",
+        "location": {
+            "city": "Vancouver",
+            "zipcode": 92228,
+            "coordinates": {
+                "latitude": -39.758908,
+                "longitude": -86.251413
+            }
+        },
+        "metadata": {
+            "creator": {
+                "id": 6414,
+                "name": "User_Eve",
+                "roles": [
+                    "moderator",
+                    "viewer"
+                ]
+            },
+            "comments": [
+                {
+                    "user": "Kate",
+                    "timestamp": "2024-10-18T15:25:09.447750",
+                    "text": "Comment Amazing!"
+                },
+                {
+                    "user": "Kate",
+                    "timestamp": "2024-12-05T15:25:09.447774",
+                    "text": "Comment Needs improvement!"
+                }
+            ]
+        },
+        "values": [
+            {
+                "value_id": 70487,
+                "value": 0,
+                "timestamp": "2024-05-22T15:25:09.447786",
+                "sub_values": [
+                    {
+                        "sub_value_id": 9135,
+                        "data": 7.525635709166112,
+                        "comment": "Excellent"
+                    }
+                ]
+            }
+        ]
+    }
+}
